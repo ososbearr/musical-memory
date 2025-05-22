@@ -1,12 +1,12 @@
-JVM info: Microsoft - 21.0.4 - 21.0.4+7-LTS
+JVM info: Microsoft - 21.0.6 - 21.0.6+7-LTS
 java.net.preferIPv4Stack=true
-Current Time: 04/12/2024 02:38:51
+Current Time: 22/05/2025 21:07:00
 Host: files.minecraftforge.net [172.67.161.211, 104.21.58.163]
 Host: maven.minecraftforge.net [104.21.58.163, 172.67.161.211]
-Host: libraries.minecraft.net [13.107.253.41]
-Host: launchermeta.mojang.com [13.107.253.41]
-Host: piston-meta.mojang.com [13.107.253.41]
-Host: sessionserver.mojang.com [13.107.253.41]
+Host: libraries.minecraft.net [13.107.246.71]
+Host: launchermeta.mojang.com [13.107.246.71]
+Host: piston-meta.mojang.com [13.107.246.71]
+Host: sessionserver.mojang.com [13.107.246.71]
 Host: authserver.mojang.com [Unknown]
 Target Directory: .
 Data kindly mirrored by CreeperHost at https://www.creeperhost.net/
@@ -18,20 +18,20 @@ Found 0 additional library directories
 Considering library cpw.mods:securejarhandler:2.1.10
   Downloading library from https://maven.creeperhost.net/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm:9.5
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/9.5/asm-9.5.jar
+Considering library org.ow2.asm:asm:9.7.1
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-commons:9.5
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar
+Considering library org.ow2.asm:asm-commons:9.7.1
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-tree:9.5
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar
+Considering library org.ow2.asm:asm-tree:9.7.1
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-util:9.5
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar
+Considering library org.ow2.asm:asm-util:9.7.1
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-analysis:9.5
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar
+Considering library org.ow2.asm:asm-analysis:9.7.1
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar
     Download completed: Checksum validated.
 Considering library net.minecraftforge:accesstransformers:8.0.4
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar
@@ -45,8 +45,8 @@ Considering library net.minecraftforge:eventbus:6.0.5
 Considering library net.minecraftforge:forgespi:7.0.1
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:coremods:5.0.1
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar
+Considering library net.minecraftforge:coremods:5.2.4
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar
     Download completed: Checksum validated.
 Considering library cpw.mods:modlauncher:10.0.9
   Downloading library from https://maven.creeperhost.net/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar
@@ -81,8 +81,8 @@ Considering library org.jline:jline-terminal:3.12.1
 Considering library org.spongepowered:mixin:0.8.5
   Downloading library from https://maven.creeperhost.net/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar
     Download completed: Checksum validated.
-Considering library org.openjdk.nashorn:nashorn-core:15.3
-  Downloading library from https://maven.creeperhost.net/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar
+Considering library org.openjdk.nashorn:nashorn-core:15.4
+  Downloading library from https://maven.creeperhost.net/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar
     Download completed: Checksum validated.
 Considering library net.minecraftforge:JarJarSelector:0.3.19
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar
@@ -96,11 +96,11 @@ Considering library cpw.mods:bootstraplauncher:1.1.2
 Considering library net.minecraftforge:JarJarFileSystems:0.3.19
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:fmlloader:1.20.1-47.1.3
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/fmlloader/1.20.1-47.1.3/fmlloader-1.20.1-47.1.3.jar
+Considering library net.minecraftforge:fmlloader:1.20.1-47.4.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:fmlearlydisplay:1.20.1-47.1.3
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/fmlearlydisplay/1.20.1-47.1.3/fmlearlydisplay-1.20.1-47.1.3.jar
+Considering library net.minecraftforge:fmlearlydisplay:1.20.1-47.4.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar
     Download completed: Checksum validated.
 Considering library com.github.jponge:lzma-java:1.3
   Downloading library from https://maven.creeperhost.net/com/github/jponge/lzma-java/1.3/lzma-java-1.3.jar
@@ -108,14 +108,11 @@ Considering library com.github.jponge:lzma-java:1.3
 Considering library com.google.code.findbugs:jsr305:3.0.2
   Downloading library from https://libraries.minecraft.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
     Download completed: Checksum validated.
-Considering library com.google.code.gson:gson:2.8.7
-  Downloading library from https://maven.creeperhost.net/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
+Considering library com.google.code.gson:gson:2.10.1
+  Downloading library from https://libraries.minecraft.net/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
     Download completed: Checksum validated.
 Considering library com.google.errorprone:error_prone_annotations:2.1.3
   Downloading library from https://maven.creeperhost.net/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar
-    Download completed: Checksum validated.
-Considering library com.google.guava:guava:20.0
-  Downloading library from https://maven.creeperhost.net/com/google/guava/guava/20.0/guava-20.0.jar
     Download completed: Checksum validated.
 Considering library com.google.guava:guava:25.1-jre
   Downloading library from https://maven.creeperhost.net/com/google/guava/guava/25.1-jre/guava-25.1-jre.jar
@@ -126,29 +123,14 @@ Considering library com.google.j2objc:j2objc-annotations:1.1
 Considering library com.nothome:javaxdelta:2.0.1
   Downloading library from https://maven.creeperhost.net/com/nothome/javaxdelta/2.0.1/javaxdelta-2.0.1.jar
     Download completed: Checksum validated.
-Considering library com.opencsv:opencsv:4.4
-  Downloading library from https://maven.creeperhost.net/com/opencsv/opencsv/4.4/opencsv-4.4.jar
-    Download completed: Checksum validated.
-Considering library commons-beanutils:commons-beanutils:1.9.3
-  Downloading library from https://maven.creeperhost.net/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
-    Download completed: Checksum validated.
-Considering library commons-collections:commons-collections:3.2.2
-  Downloading library from https://maven.creeperhost.net/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
-    Download completed: Checksum validated.
 Considering library commons-io:commons-io:2.4
   Downloading library from https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar
-    Download completed: Checksum validated.
-Considering library commons-logging:commons-logging:1.2
-  Downloading library from https://libraries.minecraft.net/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
     Download completed: Checksum validated.
 Considering library de.oceanlabs.mcp:mcp_config:1.20.1-20230612.114412@zip
   Downloading library from https://maven.creeperhost.net/de/oceanlabs/mcp/mcp_config/1.20.1-20230612.114412/mcp_config-1.20.1-20230612.114412.zip
     Download completed: Checksum validated.
-Considering library de.siegmar:fastcsv:2.0.0
-  Downloading library from https://maven.creeperhost.net/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
-    Download completed: Checksum validated.
-Considering library net.md-5:SpecialSource:1.11.0
-  Downloading library from https://maven.creeperhost.net/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar
+Considering library de.siegmar:fastcsv:2.2.2
+  Downloading library from https://maven.creeperhost.net/de/siegmar/fastcsv/2.2.2/fastcsv-2.2.2.jar
     Download completed: Checksum validated.
 Considering library net.minecraftforge:ForgeAutoRenamingTool:0.1.22:all
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/ForgeAutoRenamingTool/0.1.22/ForgeAutoRenamingTool-0.1.22-all.jar
@@ -156,33 +138,30 @@ Considering library net.minecraftforge:ForgeAutoRenamingTool:0.1.22:all
 Considering library net.minecraftforge:binarypatcher:1.1.1
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/binarypatcher/1.1.1/binarypatcher-1.1.1.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:fmlcore:1.20.1-47.1.3
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/fmlcore/1.20.1-47.1.3/fmlcore-1.20.1-47.1.3.jar
+Considering library net.minecraftforge:fmlcore:1.20.1-47.4.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:fmlearlydisplay:1.20.1-47.1.3
+Considering library net.minecraftforge:fmlearlydisplay:1.20.1-47.4.0
   File exists: Checksum validated.
-Considering library net.minecraftforge:fmlloader:1.20.1-47.1.3
+Considering library net.minecraftforge:fmlloader:1.20.1-47.4.0
   File exists: Checksum validated.
-Considering library net.minecraftforge:forge:1.20.1-47.1.3:universal
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/forge/1.20.1-47.1.3/forge-1.20.1-47.1.3-universal.jar
+Considering library net.minecraftforge:forge:1.20.1-47.4.0:universal
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:installertools:1.3.0
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar
+Considering library net.minecraftforge:installertools:1.4.1
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/installertools/1.4.1/installertools-1.4.1.jar
     Download completed: Checksum validated.
 Considering library net.minecraftforge:jarsplitter:1.1.4
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/jarsplitter/1.1.4/jarsplitter-1.1.4.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:javafmllanguage:1.20.1-47.1.3
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/javafmllanguage/1.20.1-47.1.3/javafmllanguage-1.20.1-47.1.3.jar
+Considering library net.minecraftforge:javafmllanguage:1.20.1-47.4.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:lowcodelanguage:1.20.1-47.1.3
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/lowcodelanguage/1.20.1-47.1.3/lowcodelanguage-1.20.1-47.1.3.jar
+Considering library net.minecraftforge:lowcodelanguage:1.20.1-47.4.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:mclanguage:1.20.1-47.1.3
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/mclanguage/1.20.1-47.1.3/mclanguage-1.20.1-47.1.3.jar
-    Download completed: Checksum validated.
-Considering library net.minecraftforge:srgutils:0.4.11
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar
+Considering library net.minecraftforge:mclanguage:1.20.1-47.4.0
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar
     Download completed: Checksum validated.
 Considering library net.minecraftforge:srgutils:0.4.3
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/srgutils/0.4.3/srgutils-0.4.3.jar
@@ -190,20 +169,14 @@ Considering library net.minecraftforge:srgutils:0.4.3
 Considering library net.minecraftforge:srgutils:0.4.9
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/srgutils/0.4.9/srgutils-0.4.9.jar
     Download completed: Checksum validated.
+Considering library net.minecraftforge:srgutils:0.5.6
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/srgutils/0.5.6/srgutils-0.5.6.jar
+    Download completed: Checksum validated.
 Considering library net.sf.jopt-simple:jopt-simple:5.0.4
   Downloading library from https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
     Download completed: Checksum validated.
 Considering library net.sf.jopt-simple:jopt-simple:6.0-alpha-3
   Downloading library from https://maven.creeperhost.net/net/sf/jopt-simple/jopt-simple/6.0-alpha-3/jopt-simple-6.0-alpha-3.jar
-    Download completed: Checksum validated.
-Considering library org.apache.commons:commons-collections4:4.2
-  Downloading library from https://maven.creeperhost.net/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
-    Download completed: Checksum validated.
-Considering library org.apache.commons:commons-lang3:3.8.1
-  Downloading library from https://maven.creeperhost.net/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
-    Download completed: Checksum validated.
-Considering library org.apache.commons:commons-text:1.3
-  Downloading library from https://maven.creeperhost.net/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
     Download completed: Checksum validated.
 Considering library org.checkerframework:checker-qual:2.0.0
   Downloading library from https://maven.creeperhost.net/org/checkerframework/checker-qual/2.0.0/checker-qual-2.0.0.jar
@@ -214,55 +187,42 @@ Considering library org.codehaus.mojo:animal-sniffer-annotations:1.14
 Considering library org.ow2.asm:asm-analysis:9.2
   Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-analysis:9.3
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar
-    Download completed: Checksum validated.
 Considering library org.ow2.asm:asm-commons:9.2
   Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-commons:9.3
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar
+Considering library org.ow2.asm:asm-commons:9.6
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar
     Download completed: Checksum validated.
 Considering library org.ow2.asm:asm-tree:9.2
   Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-tree:9.3
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar
+Considering library org.ow2.asm:asm-tree:9.6
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar
     Download completed: Checksum validated.
 Considering library org.ow2.asm:asm:9.2
   Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/9.2/asm-9.2.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm:9.3
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/9.3/asm-9.3.jar
+Considering library org.ow2.asm:asm:9.6
+  Downloading library from https://libraries.minecraft.net/org/ow2/asm/asm/9.6/asm-9.6.jar
     Download completed: Checksum validated.
 Considering library trove:trove:1.0.2
   Downloading library from https://maven.creeperhost.net/trove/trove/1.0.2/trove-1.0.2.jar
     Download completed: Checksum validated.
-Created Temporary Directory: /tmp/forge_installer12062890209264908379
+Created Temporary Directory: /tmp/forge_installer137117422544734777
   Extracting: /data/server.lzma
 Building Processors
 ===============================================================================
   MainClass: net.minecraftforge.installertools.ConsoleTool
   Classpath:
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/guava/guava/20.0/guava-20.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/opencsv/opencsv/4.4/opencsv-4.4.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm/9.3/asm-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
-  Args: --task, EXTRACT_FILES, --archive, /workspaces/musical-memory/servidor_minecraft/forge.jar, --from, data/run.sh, --to, /workspaces/musical-memory/servidor_minecraft/./run.sh, --exec, /workspaces/musical-memory/servidor_minecraft/./run.sh, --from, data/run.bat, --to, /workspaces/musical-memory/servidor_minecraft/./run.bat, --from, data/user_jvm_args.txt, --to, /workspaces/musical-memory/servidor_minecraft/./user_jvm_args.txt, --optional, /workspaces/musical-memory/servidor_minecraft/./user_jvm_args.txt, --from, data/win_args.txt, --to, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.1.3/win_args.txt, --from, data/unix_args.txt, --to, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.1.3/unix_args.txt
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.4.1/installertools-1.4.1.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/6.0-alpha-3/jopt-simple-6.0-alpha-3.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.2.2/fastcsv-2.2.2.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.5.6/srgutils-0.5.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm/9.6/asm-9.6.jar
+  Args: --task, EXTRACT_FILES, --archive, /workspaces/musical-memory/servidor_minecraft/forge.jar, --from, data/run.sh, --to, /workspaces/musical-memory/servidor_minecraft/./run.sh, --exec, /workspaces/musical-memory/servidor_minecraft/./run.sh, --from, data/run.bat, --to, /workspaces/musical-memory/servidor_minecraft/./run.bat, --from, data/user_jvm_args.txt, --to, /workspaces/musical-memory/servidor_minecraft/./user_jvm_args.txt, --optional, /workspaces/musical-memory/servidor_minecraft/./user_jvm_args.txt, --from, data/win_args.txt, --to, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.4.0/win_args.txt, --from, data/unix_args.txt, --to, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.4.0/unix_args.txt
 Task: EXTRACT_FILES
 Archive: /workspaces/musical-memory/servidor_minecraft/forge.jar
 Extract: data/run.sh
@@ -272,31 +232,21 @@ Extract: data/run.bat
 Extract: data/user_jvm_args.txt
          /workspaces/musical-memory/servidor_minecraft/./user_jvm_args.txt
 Extract: data/win_args.txt
-         /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.1.3/win_args.txt
+         /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.4.0/win_args.txt
 Extract: data/unix_args.txt
-         /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.1.3/unix_args.txt
+         /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.4.0/unix_args.txt
 Exec:    /workspaces/musical-memory/servidor_minecraft/./run.sh
 ===============================================================================
   MainClass: net.minecraftforge.installertools.ConsoleTool
   Classpath:
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/guava/guava/20.0/guava-20.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/opencsv/opencsv/4.4/opencsv-4.4.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm/9.3/asm-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.4.1/installertools-1.4.1.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/6.0-alpha-3/jopt-simple-6.0-alpha-3.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.2.2/fastcsv-2.2.2.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.5.6/srgutils-0.5.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm/9.6/asm-9.6.jar
   Args: --task, BUNDLER_EXTRACT, --input, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraft/server/1.20.1/server-1.20.1.jar, --output, /workspaces/musical-memory/servidor_minecraft/./libraries/, --libraries
 Task: BUNDLER_EXTRACT
 Input:   /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraft/server/1.20.1/server-1.20.1.jar
@@ -336,24 +286,14 @@ Extracted: libraries/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar
 ===============================================================================
   MainClass: net.minecraftforge.installertools.ConsoleTool
   Classpath:
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/guava/guava/20.0/guava-20.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/opencsv/opencsv/4.4/opencsv-4.4.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm/9.3/asm-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.4.1/installertools-1.4.1.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/6.0-alpha-3/jopt-simple-6.0-alpha-3.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.2.2/fastcsv-2.2.2.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.5.6/srgutils-0.5.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm/9.6/asm-9.6.jar
   Args: --task, BUNDLER_EXTRACT, --input, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraft/server/1.20.1/server-1.20.1.jar, --output, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-unpacked.jar, --jar-only
 Task: BUNDLER_EXTRACT
 Input:   /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraft/server/1.20.1/server-1.20.1.jar
@@ -365,24 +305,14 @@ Extracted: versions/1.20.1/server-1.20.1.jar
 ===============================================================================
   MainClass: net.minecraftforge.installertools.ConsoleTool
   Classpath:
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/guava/guava/20.0/guava-20.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/opencsv/opencsv/4.4/opencsv-4.4.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm/9.3/asm-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.4.1/installertools-1.4.1.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/6.0-alpha-3/jopt-simple-6.0-alpha-3.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.2.2/fastcsv-2.2.2.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.5.6/srgutils-0.5.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm/9.6/asm-9.6.jar
   Args: --task, MCP_DATA, --input, /workspaces/musical-memory/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.20.1-20230612.114412/mcp_config-1.20.1-20230612.114412.zip, --output, /workspaces/musical-memory/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.20.1-20230612.114412/mcp_config-1.20.1-20230612.114412-mappings.txt, --key, mappings
 Task: MCP_DATA
 Input:  /workspaces/musical-memory/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.20.1-20230612.114412/mcp_config-1.20.1-20230612.114412.zip
@@ -392,51 +322,34 @@ Extracting: config/joined.tsrg
 ===============================================================================
   MainClass: net.minecraftforge.installertools.ConsoleTool
   Classpath:
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/guava/guava/20.0/guava-20.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/opencsv/opencsv/4.4/opencsv-4.4.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm/9.3/asm-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.4.1/installertools-1.4.1.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/6.0-alpha-3/jopt-simple-6.0-alpha-3.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.2.2/fastcsv-2.2.2.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.5.6/srgutils-0.5.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm/9.6/asm-9.6.jar
   Args: --task, DOWNLOAD_MOJMAPS, --version, 1.20.1, --side, server, --output, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-mappings.txt
 Task: DOWNLOAD_MOJMAPS
 MC Version: 1.20.1
 Side:       server
 Output:     /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-mappings.txt
+Sanitize:   false
+Format:     TSRG
+Skip:       false
 Downloaded Mojang mappings for 1.20.1
 ===============================================================================
   MainClass: net.minecraftforge.installertools.ConsoleTool
   Classpath:
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/guava/guava/20.0/guava-20.0.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/com/opencsv/opencsv/4.4/opencsv-4.4.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm/9.3/asm-9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
-    /workspaces/musical-memory/servidor_minecraft/./libraries/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.4.1/installertools-1.4.1.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/6.0-alpha-3/jopt-simple-6.0-alpha-3.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.2.2/fastcsv-2.2.2.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.5.6/srgutils-0.5.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar
+    /workspaces/musical-memory/servidor_minecraft/./libraries/org/ow2/asm/asm/9.6/asm-9.6.jar
   Args: --task, MERGE_MAPPING, --left, /workspaces/musical-memory/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.20.1-20230612.114412/mcp_config-1.20.1-20230612.114412-mappings.txt, --right, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-mappings.txt, --output, /workspaces/musical-memory/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.20.1-20230612.114412/mcp_config-1.20.1-20230612.114412-mappings-merged.txt, --classes, --reverse-right
 Task: MERGE_MAPPING
 Left:    /workspaces/musical-memory/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.20.1-20230612.114412/mcp_config-1.20.1-20230612.114412-mappings.txt
@@ -11855,17 +11768,17 @@ Reading Input: /workspaces/musical-memory/servidor_minecraft/./libraries/net/min
 Adding input to inheritence map
 Processing entries
 Cant Find Class: javax/annotation/Nonnull
-Cant Find Class: org/joml/Matrix3f
 Cant Find Class: javax/annotation/meta/TypeQualifierDefault
+Cant Find Class: org/joml/Matrix3f
 Cant Find Class: org/joml/Vector3f
 Cant Find Class: org/joml/Quaternionf
 Cant Find Class: org/joml/Vector3fc
 Cant Find Class: it/unimi/dsi/fastutil/ints/IntIterator
-Cant Find Class: com/google/common/annotations/VisibleForTesting
 Cant Find Class: javax/annotation/Nullable
 Cant Find Class: org/joml/Matrix3fc
 Cant Find Class: it/unimi/dsi/fastutil/booleans/BooleanList
 Cant Find Class: it/unimi/dsi/fastutil/booleans/BooleanArrayList
+Cant Find Class: com/google/common/annotations/VisibleForTesting
 Cant Find Class: com/google/common/collect/Maps
 Cant Find Class: com/mojang/datafixers/util/Pair
 Cant Find Class: org/joml/Math
@@ -12022,8 +11935,8 @@ Cant Find Class: com/google/common/base/Predicate
 Cant Find Class: com/mojang/datafixers/DataFixUtils
 Cant Find Class: org/jetbrains/annotations/Nullable
 Cant Find Class: javax/annotation/concurrent/Immutable
-Cant Find Class: com/google/common/base/MoreObjects$ToStringHelper
 Cant Find Class: org/jetbrains/annotations/VisibleForTesting
+Cant Find Class: com/google/common/base/MoreObjects$ToStringHelper
 Cant Find Class: it/unimi/dsi/fastutil/longs/LongOpenHashSet
 Cant Find Class: org/apache/commons/lang3/tuple/Pair
 Cant Find Class: it/unimi/dsi/fastutil/longs/LongSet
@@ -12064,9 +11977,9 @@ Cant Find Class: com/mojang/brigadier/context/ParsedCommandNode
 Cant Find Class: com/mojang/brigadier/context/ParsedArgument
 Cant Find Class: com/google/common/base/Preconditions
 Cant Find Class: it/unimi/dsi/fastutil/ints/Int2IntFunction
-Cant Find Class: com/mojang/datafixers/Products$P8
 Cant Find Class: com/google/common/primitives/Longs
 Cant Find Class: com/google/common/primitives/Ints
+Cant Find Class: com/mojang/datafixers/Products$P8
 Cant Find Class: com/mojang/datafixers/util/Function8
 Cant Find Class: io/netty/handler/codec/EncoderException
 Cant Find Class: io/netty/channel/ChannelInitializer
@@ -12088,10 +12001,11 @@ Cant Find Class: com/mojang/authlib/properties/Property
 Cant Find Class: io/netty/buffer/ByteBufAllocator
 Cant Find Class: org/slf4j/Marker
 Cant Find Class: io/netty/channel/nio/NioEventLoopGroup
-Cant Find Class: io/netty/util/ByteProcessor
 Cant Find Class: io/netty/channel/epoll/EpollEventLoopGroup
 Cant Find Class: io/netty/channel/DefaultEventLoopGroup
 Cant Find Class: io/netty/handler/timeout/TimeoutException
+Cant Find Class: io/netty/util/ByteProcessor
+Cant Find Class: io/netty/util/ReferenceCounted
 Cant Find Class: io/netty/channel/EventLoop
 Cant Find Class: io/netty/util/concurrent/Future
 Cant Find Class: io/netty/util/concurrent/GenericFutureListener
@@ -12105,7 +12019,6 @@ Cant Find Class: io/netty/bootstrap/Bootstrap
 Cant Find Class: io/netty/channel/EventLoopGroup
 Cant Find Class: io/netty/bootstrap/AbstractBootstrap
 Cant Find Class: io/netty/channel/socket/SocketChannel
-Cant Find Class: io/netty/util/ReferenceCounted
 Cant Find Class: com/google/common/util/concurrent/ThreadFactoryBuilder
 Cant Find Class: org/slf4j/MarkerFactory
 Cant Find Class: io/netty/handler/codec/CorruptedFrameException
@@ -12142,9 +12055,9 @@ Cant Find Class: com/sun/jna/Native
 Cant Find Class: com/sun/jna/platform/win32/Win32Exception
 Cant Find Class: com/sun/jna/Memory
 Cant Find Class: com/sun/jna/Pointer
-Cant Find Class: com/sun/jna/ptr/PointerByReference
 Cant Find Class: com/google/common/base/Supplier
 Cant Find Class: com/google/common/base/Suppliers
+Cant Find Class: com/sun/jna/ptr/PointerByReference
 Cant Find Class: org/jetbrains/annotations/Contract
 Cant Find Class: com/mojang/datafixers/DataFix
 Cant Find Class: com/mojang/datafixers/types/templates/TaggedChoice$TaggedChoiceType
@@ -12173,8 +12086,8 @@ Cant Find Class: org/apache/commons/lang3/mutable/MutableBoolean
 Cant Find Class: it/unimi/dsi/fastutil/ints/Int2IntLinkedOpenHashMap
 Cant Find Class: it/unimi/dsi/fastutil/shorts/ShortArrayList
 Cant Find Class: it/unimi/dsi/fastutil/shorts/ShortList
-Cant Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectArrayMap
 Cant Find Class: it/unimi/dsi/fastutil/objects/Object2IntMap$FastEntrySet
+Cant Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectArrayMap
 Cant Find Class: it/unimi/dsi/fastutil/objects/Object2IntArrayMap
 Cant Find Class: it/unimi/dsi/fastutil/ints/IntBinaryOperator
 Cant Find Class: com/google/common/collect/Streams$IntFunctionWithIndex
@@ -12280,10 +12193,10 @@ Cant Find Class: com/google/common/collect/AbstractTable
 Cant Find Class: com/google/common/collect/ImmutableSortedMap
 Cant Find Class: com/mojang/serialization/MapEncoder
 Cant Find Class: com/mojang/serialization/MapDecoder
+Cant Find Class: it/unimi/dsi/fastutil/longs/Long2ObjectMaps
 Cant Find Class: it/unimi/dsi/fastutil/longs/LongSortedSet
 Cant Find Class: it/unimi/dsi/fastutil/longs/LongAVLTreeSet
 Cant Find Class: it/unimi/dsi/fastutil/longs/LongBidirectionalIterator
-Cant Find Class: it/unimi/dsi/fastutil/longs/Long2ObjectMaps
 Cant Find Class: it/unimi/dsi/fastutil/shorts/Short2BooleanMap
 Cant Find Class: it/unimi/dsi/fastutil/shorts/Short2BooleanFunction
 Cant Find Class: it/unimi/dsi/fastutil/shorts/Short2BooleanOpenHashMap
@@ -12380,8 +12293,8 @@ Cant Find Class: com/google/common/net/InetAddresses
 Cant Find Class: com/mojang/brigadier/arguments/DoubleArgumentType
 Cant Find Class: com/mojang/brigadier/exceptions/Dynamic3CommandExceptionType
 Cant Find Class: com/mojang/brigadier/arguments/FloatArgumentType
-Cant Find Class: com/mojang/brigadier/exceptions/Dynamic3CommandExceptionType$Function
 Cant Find Class: com/mojang/logging/LogQueues
+Cant Find Class: com/mojang/brigadier/exceptions/Dynamic3CommandExceptionType$Function
 Cant Find Class: com/mojang/brigadier/exceptions/Dynamic4CommandExceptionType$Function
 Cant Find Class: com/mojang/brigadier/exceptions/Dynamic4CommandExceptionType
 Cant Find Class: com/mojang/brigadier/RedirectModifier
@@ -18093,15 +18006,15 @@ Writing Output: /workspaces/musical-memory/servidor_minecraft/./libraries/net/mi
     /workspaces/musical-memory/servidor_minecraft/./libraries/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar
     /workspaces/musical-memory/servidor_minecraft/./libraries/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar
     /workspaces/musical-memory/servidor_minecraft/./libraries/trove/trove/1.0.2/trove-1.0.2.jar
-  Args: --clean, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar, --output, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.1.3/forge-1.20.1-47.1.3-server.jar, --apply, /tmp/forge_installer12062890209264908379/data/server.lzma
+  Args: --clean, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar, --output, /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-server.jar, --apply, /tmp/forge_installer137117422544734777/data/server.lzma
 Applying: 
   Clean:     /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar
-  Output:    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.1.3/forge-1.20.1-47.1.3-server.jar
+  Output:    /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-server.jar
   KeepData:  false
   Unpatched: false
   Pack200:   false
   Legacy:    false
-Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
+Loading patches file: /tmp/forge_installer137117422544734777/data/server.lzma
   Reading patch com.mojang.blaze3d.pipeline.RenderTarget.binpatch
     Checksum: 0 Exists: false
   Reading patch com.mojang.blaze3d.platform.GlStateManager$BlendState.binpatch
@@ -18153,6 +18066,8 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
   Reading patch com.mojang.blaze3d.vertex.PoseStack$Pose.binpatch
     Checksum: 0 Exists: false
   Reading patch com.mojang.blaze3d.vertex.PoseStack.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.SheetedDecalTextureGenerator.binpatch
     Checksum: 0 Exists: false
   Reading patch com.mojang.blaze3d.vertex.VertexConsumer.binpatch
     Checksum: 0 Exists: false
@@ -18372,6 +18287,8 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.gui.screens.OptionsScreen.binpatch
     Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.PauseScreen.binpatch
+    Checksum: 0 Exists: false
   Reading patch net.minecraft.client.gui.screens.Screen$DeferredTooltipRendering.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.gui.screens.Screen$NarratableSearchResult.binpatch
@@ -18573,6 +18490,20 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
   Reading patch net.minecraft.client.particle.EnchantmentTableParticle$Provider.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.particle.EnchantmentTableParticle.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.FireworkParticles$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.FireworkParticles$FlashProvider.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.FireworkParticles$OverlayParticle.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.FireworkParticles$SparkParticle.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.FireworkParticles$SparkProvider.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.FireworkParticles$Starter.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.FireworkParticles.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.particle.Particle.binpatch
     Checksum: 0 Exists: false
@@ -19528,6 +19459,8 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
     Checksum: 684de634 Exists: true
   Reading patch net.minecraft.tags.TagEntry.binpatch
     Checksum: cbef48c Exists: true
+  Reading patch net.minecraft.tags.TagFile.binpatch
+    Checksum: 52624a70 Exists: true
   Reading patch net.minecraft.tags.TagLoader$1.binpatch
     Checksum: 7c6203d3 Exists: true
   Reading patch net.minecraft.tags.TagLoader$EntryWithSource.binpatch
@@ -19604,6 +19537,14 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
     Checksum: b9ce7efe Exists: true
   Reading patch net.minecraft.world.entity.TamableAnimal.binpatch
     Checksum: 3c5bc35a Exists: true
+  Reading patch net.minecraft.world.entity.ai.Brain$1.binpatch
+    Checksum: 2631c59c Exists: true
+  Reading patch net.minecraft.world.entity.ai.Brain$MemoryValue.binpatch
+    Checksum: 842c20de Exists: true
+  Reading patch net.minecraft.world.entity.ai.Brain$Provider.binpatch
+    Checksum: 13b0d47c Exists: true
+  Reading patch net.minecraft.world.entity.ai.Brain.binpatch
+    Checksum: c9f8a383 Exists: true
   Reading patch net.minecraft.world.entity.ai.attributes.AttributeSupplier$Builder.binpatch
     Checksum: 51a5e06d Exists: true
   Reading patch net.minecraft.world.entity.ai.attributes.AttributeSupplier.binpatch
@@ -19942,6 +19883,32 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
     Checksum: 2870567a Exists: true
   Reading patch net.minecraft.world.entity.npc.Villager.binpatch
     Checksum: 3d2f3f63 Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerTrades$DyedArmorForEmeralds.binpatch
+    Checksum: e7efac64 Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerTrades$EmeraldForItems.binpatch
+    Checksum: 18cc2d16 Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerTrades$EmeraldsForVillagerTypeItem.binpatch
+    Checksum: f0f2e2ba Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerTrades$EnchantBookForEmeralds.binpatch
+    Checksum: 1171be47 Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerTrades$EnchantedItemForEmeralds.binpatch
+    Checksum: b426c829 Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerTrades$ItemListing.binpatch
+    Checksum: 7537990e Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerTrades$ItemsAndEmeraldsToItems.binpatch
+    Checksum: 6a3bcf93 Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerTrades$ItemsForEmeralds.binpatch
+    Checksum: 93e6e489 Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerTrades$SuspiciousStewForEmerald.binpatch
+    Checksum: 3152525d Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerTrades$TippedArrowForItemsAndEmeralds.binpatch
+    Checksum: 21510966 Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerTrades$TreasureMapForEmeralds.binpatch
+    Checksum: 7206d3d Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerTrades.binpatch
+    Checksum: 375207de Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerType.binpatch
+    Checksum: 255ca926 Exists: true
   Reading patch net.minecraft.world.entity.player.Inventory.binpatch
     Checksum: 7d92b876 Exists: true
   Reading patch net.minecraft.world.entity.player.Player$1.binpatch
@@ -20156,6 +20123,12 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
     Checksum: 193be0ed Exists: true
   Reading patch net.minecraft.world.item.ElytraItem.binpatch
     Checksum: e83b811a Exists: true
+  Reading patch net.minecraft.world.item.FireworkRocketItem$Shape.binpatch
+    Checksum: 2d22e6c0 Exists: true
+  Reading patch net.minecraft.world.item.FireworkRocketItem.binpatch
+    Checksum: b83cf20e Exists: true
+  Reading patch net.minecraft.world.item.FireworkStarItem.binpatch
+    Checksum: 3f5c1ebc Exists: true
   Reading patch net.minecraft.world.item.FishingRodItem.binpatch
     Checksum: 851d21ad Exists: true
   Reading patch net.minecraft.world.item.HoeItem.binpatch
@@ -20224,6 +20197,8 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
     Checksum: 3cf55751 Exists: true
   Reading patch net.minecraft.world.item.crafting.BookCloningRecipe.binpatch
     Checksum: cfc9b47b Exists: true
+  Reading patch net.minecraft.world.item.crafting.FireworkStarRecipe.binpatch
+    Checksum: dbf504d9 Exists: true
   Reading patch net.minecraft.world.item.crafting.Ingredient$ItemValue.binpatch
     Checksum: 6f16f687 Exists: true
   Reading patch net.minecraft.world.item.crafting.Ingredient$TagValue.binpatch
@@ -20454,6 +20429,8 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
     Checksum: 9c278cc9 Exists: true
   Reading patch net.minecraft.world.level.block.ChorusFlowerBlock.binpatch
     Checksum: c745a37e Exists: true
+  Reading patch net.minecraft.world.level.block.ChorusPlantBlock.binpatch
+    Checksum: 2094f03e Exists: true
   Reading patch net.minecraft.world.level.block.CocoaBlock$1.binpatch
     Checksum: b9e6bce5 Exists: true
   Reading patch net.minecraft.world.level.block.CocoaBlock.binpatch
@@ -20590,6 +20567,8 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
     Checksum: 53a1ac7a Exists: true
   Reading patch net.minecraft.world.level.block.entity.AbstractFurnaceBlockEntity$1.binpatch
     Checksum: 62c64299 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.AbstractFurnaceBlockEntity$2.binpatch
+    Checksum: 0 Exists: false
   Reading patch net.minecraft.world.level.block.entity.AbstractFurnaceBlockEntity.binpatch
     Checksum: 447f2ba7 Exists: true
   Reading patch net.minecraft.world.level.block.entity.BaseContainerBlockEntity.binpatch
@@ -20604,6 +20583,8 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
     Checksum: 536eaa33 Exists: true
   Reading patch net.minecraft.world.level.block.entity.BrewingStandBlockEntity$1.binpatch
     Checksum: 47ec1d80 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BrewingStandBlockEntity$2.binpatch
+    Checksum: 0 Exists: false
   Reading patch net.minecraft.world.level.block.entity.BrewingStandBlockEntity.binpatch
     Checksum: be9a5a75 Exists: true
   Reading patch net.minecraft.world.level.block.entity.ChestBlockEntity$1.binpatch
@@ -20614,6 +20595,8 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
     Checksum: 8c8e9a82 Exists: true
   Reading patch net.minecraft.world.level.block.entity.ConduitBlockEntity.binpatch
     Checksum: dc15d3e2 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.HangingSignBlockEntity.binpatch
+    Checksum: 472f4399 Exists: true
   Reading patch net.minecraft.world.level.block.entity.HopperBlockEntity.binpatch
     Checksum: 47fa439d Exists: true
   Reading patch net.minecraft.world.level.block.entity.ShulkerBoxBlockEntity$1.binpatch
@@ -20720,6 +20703,8 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
     Checksum: e8ad37d4 Exists: true
   Reading patch net.minecraft.world.level.levelgen.DebugLevelSource.binpatch
     Checksum: ae1fc76 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.PhantomSpawner.binpatch
+    Checksum: 4f59bdfb Exists: true
   Reading patch net.minecraft.world.level.levelgen.feature.Feature.binpatch
     Checksum: 712f2f24 Exists: true
   Reading patch net.minecraft.world.level.levelgen.feature.MonsterRoomFeature.binpatch
@@ -20728,6 +20713,8 @@ Loading patches file: /tmp/forge_installer12062890209264908379/data/server.lzma
     Checksum: 9d432b49 Exists: true
   Reading patch net.minecraft.world.level.levelgen.feature.configurations.TreeConfiguration.binpatch
     Checksum: 94ae4b74 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.feature.treedecorators.AlterGroundDecorator.binpatch
+    Checksum: 54d64299 Exists: true
   Reading patch net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacer.binpatch
     Checksum: a71f202b Exists: true
   Reading patch net.minecraft.world.level.levelgen.structure.Structure$GenerationContext.binpatch
@@ -21219,6 +21206,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/tags/TagBuilder 1/1
   Patching net/minecraft/tags/TagEntry$Lookup 1/1
   Patching net/minecraft/tags/TagEntry 1/1
+  Patching net/minecraft/tags/TagFile 1/1
   Patching net/minecraft/tags/TagLoader$1 1/1
   Patching net/minecraft/tags/TagLoader$EntryWithSource 1/1
   Patching net/minecraft/tags/TagLoader$SortingEntry 1/1
@@ -21257,6 +21245,10 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/world/entity/SpawnPlacements$Type 1/1
   Patching net/minecraft/world/entity/SpawnPlacements 1/1
   Patching net/minecraft/world/entity/TamableAnimal 1/1
+  Patching net/minecraft/world/entity/ai/Brain$1 1/1
+  Patching net/minecraft/world/entity/ai/Brain$MemoryValue 1/1
+  Patching net/minecraft/world/entity/ai/Brain$Provider 1/1
+  Patching net/minecraft/world/entity/ai/Brain 1/1
   Patching net/minecraft/world/entity/ai/attributes/AttributeSupplier$Builder 1/1
   Patching net/minecraft/world/entity/ai/attributes/AttributeSupplier 1/1
   Patching net/minecraft/world/entity/ai/attributes/DefaultAttributes 1/1
@@ -21426,6 +21418,19 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/world/entity/npc/AbstractVillager 1/1
   Patching net/minecraft/world/entity/npc/CatSpawner 1/1
   Patching net/minecraft/world/entity/npc/Villager 1/1
+  Patching net/minecraft/world/entity/npc/VillagerTrades$DyedArmorForEmeralds 1/1
+  Patching net/minecraft/world/entity/npc/VillagerTrades$EmeraldForItems 1/1
+  Patching net/minecraft/world/entity/npc/VillagerTrades$EmeraldsForVillagerTypeItem 1/1
+  Patching net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds 1/1
+  Patching net/minecraft/world/entity/npc/VillagerTrades$EnchantedItemForEmeralds 1/1
+  Patching net/minecraft/world/entity/npc/VillagerTrades$ItemListing 1/1
+  Patching net/minecraft/world/entity/npc/VillagerTrades$ItemsAndEmeraldsToItems 1/1
+  Patching net/minecraft/world/entity/npc/VillagerTrades$ItemsForEmeralds 1/1
+  Patching net/minecraft/world/entity/npc/VillagerTrades$SuspiciousStewForEmerald 1/1
+  Patching net/minecraft/world/entity/npc/VillagerTrades$TippedArrowForItemsAndEmeralds 1/1
+  Patching net/minecraft/world/entity/npc/VillagerTrades$TreasureMapForEmeralds 1/1
+  Patching net/minecraft/world/entity/npc/VillagerTrades 1/1
+  Patching net/minecraft/world/entity/npc/VillagerType 1/1
   Patching net/minecraft/world/entity/player/Inventory 1/1
   Patching net/minecraft/world/entity/player/Player$1 1/1
   Patching net/minecraft/world/entity/player/Player$BedSleepingProblem 1/1
@@ -21533,6 +21538,9 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/world/item/DyeColor 1/1
   Patching net/minecraft/world/item/DyeableHorseArmorItem 1/1
   Patching net/minecraft/world/item/ElytraItem 1/1
+  Patching net/minecraft/world/item/FireworkRocketItem$Shape 1/1
+  Patching net/minecraft/world/item/FireworkRocketItem 1/1
+  Patching net/minecraft/world/item/FireworkStarItem 1/1
   Patching net/minecraft/world/item/FishingRodItem 1/1
   Patching net/minecraft/world/item/HoeItem 1/1
   Patching net/minecraft/world/item/HorseArmorItem 1/1
@@ -21566,6 +21574,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/world/item/alchemy/PotionBrewing 1/1
   Patching net/minecraft/world/item/crafting/BannerDuplicateRecipe 1/1
   Patching net/minecraft/world/item/crafting/BookCloningRecipe 1/1
+  Patching net/minecraft/world/item/crafting/FireworkStarRecipe 1/1
   Patching net/minecraft/world/item/crafting/Ingredient$ItemValue 1/1
   Patching net/minecraft/world/item/crafting/Ingredient$TagValue 1/1
   Patching net/minecraft/world/item/crafting/Ingredient$Value 1/1
@@ -21679,6 +21688,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/world/level/block/ChestBlock$4 1/1
   Patching net/minecraft/world/level/block/ChestBlock 1/1
   Patching net/minecraft/world/level/block/ChorusFlowerBlock 1/1
+  Patching net/minecraft/world/level/block/ChorusPlantBlock 1/1
   Patching net/minecraft/world/level/block/CocoaBlock$1 1/1
   Patching net/minecraft/world/level/block/CocoaBlock 1/1
   Patching net/minecraft/world/level/block/ComparatorBlock 1/1
@@ -21759,6 +21769,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/world/level/block/entity/ChestBlockEntity 1/1
   Patching net/minecraft/world/level/block/entity/ChiseledBookShelfBlockEntity 1/1
   Patching net/minecraft/world/level/block/entity/ConduitBlockEntity 1/1
+  Patching net/minecraft/world/level/block/entity/HangingSignBlockEntity 1/1
   Patching net/minecraft/world/level/block/entity/HopperBlockEntity 1/1
   Patching net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$1 1/1
   Patching net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus 1/1
@@ -21812,10 +21823,12 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/world/level/levelgen/Beardifier$Rigid 1/1
   Patching net/minecraft/world/level/levelgen/Beardifier 1/1
   Patching net/minecraft/world/level/levelgen/DebugLevelSource 1/1
+  Patching net/minecraft/world/level/levelgen/PhantomSpawner 1/1
   Patching net/minecraft/world/level/levelgen/feature/Feature 1/1
   Patching net/minecraft/world/level/levelgen/feature/MonsterRoomFeature 1/1
   Patching net/minecraft/world/level/levelgen/feature/configurations/TreeConfiguration$TreeConfigurationBuilder 1/1
   Patching net/minecraft/world/level/levelgen/feature/configurations/TreeConfiguration 1/1
+  Patching net/minecraft/world/level/levelgen/feature/treedecorators/AlterGroundDecorator 1/1
   Patching net/minecraft/world/level/levelgen/feature/trunkplacers/TrunkPlacer 1/1
   Patching net/minecraft/world/level/levelgen/structure/Structure$GenerationContext 1/1
   Patching net/minecraft/world/level/levelgen/structure/Structure$GenerationStub 1/1
@@ -21905,6 +21918,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching com/mojang/realmsclient/gui/screens/RealmsNotificationsScreen$DataFetcherConfiguration 1/1
   Patching net/minecraft/client/renderer/GameRenderer 1/1
   Patching net/minecraft/client/renderer/texture/Stitcher$SpriteLoader 1/1
+  Patching net/minecraft/client/particle/FireworkParticles$SparkParticle 1/1
   Patching com/mojang/blaze3d/platform/GlStateManager$PolygonOffsetState 1/1
   Patching net/minecraft/client/color/block/BlockColors 1/1
   Patching net/minecraft/client/gui/screens/inventory/MerchantScreen 1/1
@@ -21915,6 +21929,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/client/renderer/texture/TextureAtlasSprite 1/1
   Patching net/minecraft/client/resources/sounds/SoundInstance$Attenuation 1/1
   Patching net/minecraft/client/server/LanServerDetection 1/1
+  Patching net/minecraft/client/particle/FireworkParticles$Starter 1/1
   Patching net/minecraft/client/player/LocalPlayer 1/1
   Patching net/minecraft/client/gui/components/Button$Builder 1/1
   Patching net/minecraft/client/resources/model/MultiPartBakedModel 1/1
@@ -21923,6 +21938,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/client/Options$3 1/1
   Patching net/minecraft/client/Options$2 1/1
   Patching net/minecraft/client/Options$1 1/1
+  Patching net/minecraft/client/gui/screens/PauseScreen 1/1
   Patching net/minecraft/client/renderer/texture/TextureAtlasSprite$Ticker 1/1
   Patching net/minecraft/client/gui/screens/worldselection/WorldCreationContext$DimensionsUpdater 1/1
   Patching net/minecraft/client/particle/Particle 1/1
@@ -21957,6 +21973,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching com/mojang/blaze3d/vertex/VertexFormatElement 1/1
   Patching net/minecraft/client/gui/screens/multiplayer/ServerSelectionList$Entry 1/1
   Patching com/mojang/blaze3d/platform/GlStateManager$BooleanState 1/1
+  Patching net/minecraft/client/particle/FireworkParticles$SparkProvider 1/1
   Patching net/minecraft/client/multiplayer/resolver/AddressCheck 1/1
   Patching net/minecraft/client/gui/screens/worldselection/CreateWorldScreen 1/1
   Patching net/minecraft/client/renderer/block/model/ItemOverrides$BakedOverride 1/1
@@ -22004,6 +22021,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/client/resources/model/ModelBakery$ModelGroupKey 1/1
   Patching net/minecraft/client/renderer/texture/Stitcher$Region 1/1
   Patching net/minecraft/client/renderer/entity/layers/HumanoidArmorLayer$1 1/1
+  Patching net/minecraft/world/level/block/entity/BrewingStandBlockEntity$2 1/1
   Patching net/minecraft/client/renderer/chunk/ChunkRenderDispatcher$RenderChunk 1/1
   Patching net/minecraft/client/gui/components/BossHealthOverlay$1 1/1
   Patching net/minecraft/client/renderer/ItemBlockRenderTypes 1/1
@@ -22023,6 +22041,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/client/gui/screens/inventory/AbstractContainerScreen 1/1
   Patching net/minecraft/client/renderer/block/ModelBlockRenderer$Cache 1/1
   Patching net/minecraft/client/gui/screens/multiplayer/ServerSelectionList$OnlineServerEntry 1/1
+  Patching net/minecraft/client/particle/FireworkParticles$FlashProvider 1/1
   Patching com/mojang/blaze3d/platform/GlStateManager$BlendState 1/1
   Patching com/mojang/blaze3d/vertex/VertexFormat$Mode 1/1
   Patching net/minecraft/client/renderer/block/model/ItemTransforms$Deserializer 1/1
@@ -22157,6 +22176,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/client/multiplayer/ClientPacketListener 1/1
   Patching net/minecraft/client/gui/screens/worldselection/PresetEditor 1/1
   Patching net/minecraft/client/renderer/DimensionSpecialEffects$EndEffects 1/1
+  Patching net/minecraft/client/particle/FireworkParticles$OverlayParticle 1/1
   Patching net/minecraft/client/gui/screens/inventory/InventoryScreen 1/1
   Patching net/minecraft/client/gui/screens/advancements/AdvancementsScreen 1/1
   Patching com/mojang/blaze3d/pipeline/RenderTarget 1/1
@@ -22165,9 +22185,11 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/client/gui/screens/worldselection/WorldCreationUiState$SelectedGameMode 1/1
   Patching net/minecraft/client/server/LanServerDetection$LanServerDetector 1/1
   Patching net/minecraft/client/sounds/SoundEngine 1/1
+  Patching net/minecraft/client/particle/FireworkParticles$1 1/1
   Patching net/minecraft/client/renderer/FogRenderer$BlindnessFogFunction 1/1
   Patching com/mojang/blaze3d/platform/GlStateManager$DepthState 1/1
   Patching net/minecraft/client/multiplayer/ServerData 1/1
+  Patching net/minecraft/world/level/block/entity/AbstractFurnaceBlockEntity$2 1/1
   Patching net/minecraft/client/renderer/texture/TextureAtlas 1/1
   Patching net/minecraft/client/renderer/block/model/ItemModelGenerator$1 1/1
   Patching net/minecraft/client/particle/VibrationSignalParticle 1/1
@@ -22216,6 +22238,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/client/gui/screens/inventory/tooltip/ClientTooltipComponent 1/1
   Patching net/minecraft/client/renderer/texture/Stitcher$Holder 1/1
   Patching net/minecraft/client/Screenshot 1/1
+  Patching com/mojang/blaze3d/vertex/SheetedDecalTextureGenerator 1/1
   Patching net/minecraft/client/User$Type 1/1
   Patching com/mojang/blaze3d/vertex/BufferBuilder 1/1
   Patching com/mojang/realmsclient/gui/screens/RealmsGenericErrorScreen 1/1
@@ -22226,6 +22249,7 @@ Processing: /workspaces/musical-memory/servidor_minecraft/./libraries/net/minecr
   Patching net/minecraft/client/gui/screens/packs/PackSelectionModel$UnselectedPackEntry 1/1
   Patching net/minecraft/client/resources/model/ModelBakery$BakedCacheKey 1/1
   Patching net/minecraft/client/renderer/block/ModelBlockRenderer$1 1/1
+  Patching net/minecraft/client/particle/FireworkParticles 1/1
   Patching net/minecraft/client/renderer/block/model/FaceBakery 1/1
   Patching com/mojang/blaze3d/platform/GlStateManager$LogicOp 1/1
   Patching net/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen 1/1
