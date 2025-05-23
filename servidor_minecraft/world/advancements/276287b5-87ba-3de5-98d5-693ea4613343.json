@@ -2801,5 +2801,65 @@
     },
     "done": true
   },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-05-23 18:36:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2025-05-23 18:36:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2025-05-23 18:36:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2025-05-23 18:36:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/pale": {
+    "criteria": {
+      "has_planks": "2025-05-23 18:36:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-05-23 18:39:15 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/slab": {
+    "criteria": {
+      "has_planks": "2025-05-23 18:36:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2025-05-23 18:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-23 18:36:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2025-05-23 18:36:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
