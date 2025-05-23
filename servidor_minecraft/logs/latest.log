@@ -474,3 +474,8 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [23May2025 06:53:25.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [Dangerous Acquaintance]
 [23May2025 06:53:48.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [The Imperfect thing]
 [23May2025 06:54:15.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [Taste of Victory]
+[23May2025 06:55:26.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [The day of the Dead]
+[23May2025 06:55:28.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has reached the goal [Arachnophobe's Nightmare]
+[23May2025 07:00:54.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark was slain by Fallen Chaos Knight
+[23May2025 07:00:54.739] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for danyboydark with unique ID travelersbackpack.warden_23.05.2025-07.00.54.dat
+[23May2025 07:00:54.779] [Server thread/INFO] [tombstone/]: The player danyboydark has successfully been saved

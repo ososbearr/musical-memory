@@ -600,7 +600,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-23 06:53:28 +0000",
       "minecraft:skeleton": "2025-05-22 22:12:50 +0000",
+      "savage_and_ravage:executioner": "2025-05-23 06:53:29 +0000",
       "minecraft:vindicator": "2025-05-22 21:56:57 +0000",
       "minecraft:spider": "2025-05-22 21:48:06 +0000",
       "minecraft:creeper": "2025-05-23 01:51:27 +0000",
@@ -610,7 +612,9 @@
       "minecraft:silverfish": "2025-05-23 01:50:58 +0000",
       "minecraft:vex": "2025-05-22 21:55:38 +0000",
       "minecraft:zombie": "2025-05-22 21:36:26 +0000",
-      "minecraft:zombie_villager": "2025-05-23 02:39:00 +0000"
+      "savage_and_ravage:iceologer": "2025-05-23 06:54:52 +0000",
+      "minecraft:zombie_villager": "2025-05-23 02:39:00 +0000",
+      "savage_and_ravage:skeleton_villager": "2025-05-23 06:53:28 +0000"
     },
     "done": false
   },
@@ -2367,9 +2371,27 @@
     },
     "done": true
   },
+  "skyarena:use_altar_battle": {
+    "criteria": {
+      "use_altar_battle": "2025-05-23 06:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-23 06:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-23 06:52:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-05-23 06:55:28 +0000"
     },
     "done": true
   },
@@ -2379,15 +2401,93 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/phasmo_arrow": {
+    "criteria": {
+      "item": "2025-05-23 06:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-23 06:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-05-23 06:52:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-05-23 06:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-23 06:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-23 06:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-05-23 06:52:14 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-05-23 06:38:54 +0000"
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/soul_glass": {
+    "criteria": {
+      "item": "2025-05-23 06:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-05-23 06:52:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-05-23 06:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-05-23 06:50:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-05-23 06:52:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-05-23 06:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-23 06:52:14 +0000"
     },
     "done": true
   },
@@ -2403,9 +2503,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-05-23 06:52:14 +0000"
+    },
+    "done": true
+  },
   "skyarena:common_arena": {
     "criteria": {
       "common": "2025-05-23 06:51:27 +0000"
+    },
+    "done": true
+  },
+  "skyarena:difficulty_level_1": {
+    "criteria": {
+      "difficulty_level_1": "2025-05-23 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-05-23 06:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-05-23 06:52:14 +0000"
     },
     "done": true
   },
