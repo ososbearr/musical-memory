@@ -1,41 +1,581 @@
-[23May2025 00:00:18.681] [Worker-Main-186/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1195, y=70, z=-668}
-[23May2025 00:00:18.684] [Worker-Main-186/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1195, y=70, z=-668}
-[23May2025 00:00:18.684] [Worker-Main-186/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1197, y=78, z=-668}
-[23May2025 00:00:18.685] [Worker-Main-186/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1197, y=78, z=-668}
-[23May2025 00:00:18.685] [Worker-Main-186/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1195, y=70, z=-668}
-[23May2025 00:00:18.685] [Worker-Main-186/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1197, y=78, z=-668}
-[23May2025 00:12:11.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [advancements.minecells.elite]
-[23May2025 00:12:53.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [advancements.minecells.vine_rune]
-[23May2025 00:17:40.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danyboydark moved too quickly! 4.7401069225190895,-39.5,6.137499988079071
-[23May2025 00:36:53.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [advancements.minecells.insufferable_crypt]
-[23May2025 00:36:53.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danyboydark moved too quickly! -0.9230431633483249,-6.5,-79.86250001192093
-[23May2025 00:43:39.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.26929691528505373
-[23May2025 00:43:39.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.8716691816226785
-[23May2025 00:43:40.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 1.0
-[23May2025 00:43:40.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 1.0
-[23May2025 00:44:56.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.2863403392522059
-[23May2025 00:44:56.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.7258956850276945
-[23May2025 00:44:56.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.9468410707812609
-[23May2025 00:45:20.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.2538169132035364
-[23May2025 00:45:20.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.2627821588177994
-[23May2025 00:45:21.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.6916231757606965
-[23May2025 00:45:21.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.28569969985892385
-[23May2025 00:46:08.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.26481215294211324
-[23May2025 00:46:08.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.6347592313532004
-[23May2025 00:46:08.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.9433695755151348
-[23May2025 00:46:27.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.33260377127123775
-[23May2025 00:46:27.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 1.015474419530392
-[23May2025 00:46:57.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.2846946113231752
-[23May2025 00:46:57.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.5312420265881883
-[23May2025 00:46:57.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.6917000568987532
-[23May2025 00:47:43.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.30974191473694646
-[23May2025 00:47:43.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of danyboydark) moved wrongly! 0.36501050185961503
-[23May2025 00:49:56.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [advancements.minecells.conjunctivius]
-[23May2025 00:54:15.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danyboydark moved too quickly! 1.040459898009999,8.5,82.13749998807907
-[23May2025 00:54:38.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danyboydark moved too quickly! -1.2627831774992728,-6.5,-79.86250001192093
-[23May2025 00:56:04.757] [Server thread/WARN] [com.github.mim1q.minecells.MineCells/]: Player danyboydark tried to craft minecells:cell_crafter/gear/hattoris_katana without having the required items
-[23May2025 00:57:36.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[23May2025 00:57:36.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[23May2025 00:57:36.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danyboydark lost connection: Server closed
-[23May2025 00:57:36.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark left the game
-[23May2025 00:57:36.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23May2025 00:59:47.040] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[23May2025 00:59:47.052] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[23May2025 00:59:48.524] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[23May2025 00:59:48.540] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[23May2025 00:59:48.589] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[23May2025 00:59:48.616] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[23May2025 00:59:48.716] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/musical-memory/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23157%23160!/ Service=ModLauncher Env=SERVER
+[23May2025 00:59:49.155] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/musical-memory/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[23May2025 00:59:49.352] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/musical-memory/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[23May2025 00:59:49.356] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/musical-memory/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[23May2025 00:59:49.360] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/musical-memory/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[23May2025 00:59:49.361] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/musical-memory/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[23May2025 00:59:50.178] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 67 dependencies adding them to mods collection
+[23May2025 00:59:51.133] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 10 candidates to load
+[23May2025 00:59:52.873] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[23May2025 00:59:55.611] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23May2025 00:59:56.327] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[23May2025 00:59:56.851] [main/WARN] [mixin/]: Reference map 'limitedchunks.refmap.json' for limitedchunks.mixins.json could not be read. If this is a development environment you can ignore this message
+[23May2025 00:59:56.895] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[23May2025 00:59:57.056] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[23May2025 00:59:57.114] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[23May2025 00:59:57.129] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[23May2025 00:59:58.283] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23May2025 00:59:58.304] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23May2025 00:59:58.637] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[23May2025 00:59:58.638] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[23May2025 00:59:58.639] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[23May2025 00:59:58.642] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[23May2025 00:59:58.643] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[23May2025 00:59:58.647] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[23May2025 01:00:00.418] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER
+[23May2025 01:00:00.418] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/ParticleEngine (java.lang.RuntimeException: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER)
+[23May2025 01:00:00.419] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.particle.ParticleEngine was not found the_bumblezone-common.mixins.json:client.ParticleEngineAccessor from mod the_bumblezone
+[23May2025 01:00:01.036] [main/WARN] [mixin/]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr.catcore.server.translations.api.resource.language.SystemDelegatedLanguage)
+[23May2025 01:00:01.279] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/entity/LithiumEntityCollisions (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.entity.LithiumEntityCollisions)
+[23May2025 01:00:01.929] [main/WARN] [mixin/]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[23May2025 01:00:02.299] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23May2025 01:00:02.855] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
+[23May2025 01:00:06.535] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23May2025 01:00:06.536] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23May2025 01:00:07.609] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23May2025 01:00:07.610] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23May2025 01:00:07.704] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss from mod epicfight should be final
+[23May2025 01:00:07.704] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss from mod epicfight should be final
+[23May2025 01:00:10.347] [main/INFO] [mixin/]: savage_and_ravage.mixins.json:RaiderAccessor from mod savage_and_ravage->@Accessor[FIELD_GETTER]::getIsCelebrating()Lnet/minecraft/network/syncher/EntityDataAccessor; should be static as its target is
+[23May2025 01:00:10.882] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[23May2025 01:00:10.883] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[23May2025 01:00:10.883] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[23May2025 01:00:10.883] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[23May2025 01:00:13.254] [main/INFO] [surveyor/]: [Surveyor] is not a map mod
+[23May2025 01:00:13.257] [main/INFO] [gimm1q/]: Initializing Gimm1q - Mim1q's Fabric modding library!
+[23May2025 01:00:13.415] [main/INFO] [owo/]: Don't trust naschhorn, the Master of Taglocks, around you or your bed
+[23May2025 01:00:14.926] [modloading-worker-0/INFO] [dev.su5ed.sinytra.connectorextras.terrablenderbridge.TerraBlenderBridge/]: Injecting TerraBlender API classes
+[23May2025 01:00:15.555] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[23May2025 01:00:15.587] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[23May2025 01:00:16.301] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@5fa0141f on thread Thread[modloading-worker-0,5,main]
+[23May2025 01:00:16.302] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass0(Native Method) ~[?:?]
+	at java.lang.System$2.defineClass(System.java:2324) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClass(MethodHandles.java:2439) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClassAsLookup(MethodHandles.java:2420) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.defineHiddenClass(MethodHandles.java:2127) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.generateInnerClass(InnerClassLambdaMetafactory.java:407) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.spinInnerClass(InnerClassLambdaMetafactory.java:315) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.buildCallSite(InnerClassLambdaMetafactory.java:228) ~[?:?]
+	at java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:341) ~[?:?]
+	at java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134) ~[?:?]
+	at java.lang.invoke.CallSite.makeSite(CallSite.java:315) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:281) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:271) ~[?:?]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23197!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:28) ~[obscure_api-15.jar%23197!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:46) ~[obscure_api-15.jar%23197!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:69) ~[obscure_api-15.jar%23197!/:com.obscuria]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.4.0.jar%23221!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:126) ~[fmlcore-1.20.1-47.4.0.jar%23220!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23May2025 01:00:16.309] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[23May2025 01:00:16.598] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: AmethystGuard
+[23May2025 01:00:16.604] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: RapierGuardWoM
+[23May2025 01:00:16.608] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: AmethystGuardWoM
+[23May2025 01:00:16.650] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[23May2025 01:00:18.034] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[23May2025 01:00:18.035] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[23May2025 01:00:20.116] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[23May2025 01:00:20.118] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[23May2025 01:00:22.674] [main/INFO] [Moonlight/]: Initialized block sets in 20ms
+[23May2025 01:00:23.958] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[23May2025 01:00:24.048] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from interface com.modderg.tameablebeasts.server.entity.TBRideable
+[23May2025 01:00:24.049] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from class com.modderg.tameablebeasts.server.entity.custom.GroundBeetleEntity
+[23May2025 01:00:24.069] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[23May2025 01:00:24.129] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[23May2025 01:00:24.129] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[23May2025 01:00:24.130] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[23May2025 01:00:24.130] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[23May2025 01:00:24.130] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[23May2025 01:00:24.131] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[23May2025 01:00:24.131] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[23May2025 01:00:24.131] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[23May2025 01:00:24.131] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[23May2025 01:00:24.933] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
+[23May2025 01:00:25.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[23May2025 01:00:25.067] [modloading-worker-0/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
+[23May2025 01:00:25.072] [modloading-worker-0/INFO] [net.jrdemiurge.skyarena.SkyArena/]: Registering triggers...
+[23May2025 01:00:25.099] [modloading-worker-0/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
+[23May2025 01:00:25.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
+[23May2025 01:00:25.148] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[23May2025 01:00:25.164] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
+[23May2025 01:00:25.166] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23220!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23220!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[23May2025 01:00:25.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[23May2025 01:00:25.248] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.36 Target: null
+[23May2025 01:00:25.248] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23May2025 01:00:25.480] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[23May2025 01:00:25.481] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[23May2025 01:00:25.483] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[23May2025 01:00:25.484] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[23May2025 01:00:25.543] [main/INFO] [Moonlight/]: Initialized color sets in 40ms
+[23May2025 01:00:25.613] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[23May2025 01:00:25.633] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[23May2025 01:00:25.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[23May2025 01:00:25.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[23May2025 01:00:25.650] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.1 Target: null
+[23May2025 01:00:25.650] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.20.1/dev/updates.json
+[23May2025 01:00:25.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.4 Target: null
+[23May2025 01:00:25.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[23May2025 01:00:26.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.4+mc1.20.1-build.131 Target: null
+[23May2025 01:00:26.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[23May2025 01:00:26.225] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23220!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23220!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[23May2025 01:00:30.669] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23May2025 01:00:32.981] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/musical-memory/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/assets/.mcassetsroot' uses unexpected schema
+[23May2025 01:00:32.982] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/musical-memory/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/data/.mcassetsroot' uses unexpected schema
+[23May2025 01:00:33.247] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[23May2025 01:00:36.776] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
+[23May2025 01:00:40.227] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
+[23May2025 01:00:40.818] [Worker-Main-1/INFO] [epicfight/]: Register animations from refm
+[23May2025 01:00:41.290] [Worker-Main-1/INFO] [epicfight/]: Register animations from wom
+[23May2025 01:00:43.156] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 5 modifier groups
+[23May2025 01:00:43.242] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[23May2025 01:00:43.242] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[23May2025 01:00:43.243] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[23May2025 01:00:43.733] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[23May2025 01:00:43.762] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[23May2025 01:00:43.798] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[23May2025 01:00:43.875] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[23May2025 01:00:43.879] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Skipped modifier named 'savage_and_ravage:adventure/voluntary_exile' as its conditions were not met
+[23May2025 01:00:43.881] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Skipped modifier named 'savage_and_ravage:adventure/voluntary_exile' as its conditions were not met
+[23May2025 01:00:43.899] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 5 modifier groups
+[23May2025 01:00:44.229] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2170 advancements
+[23May2025 01:00:44.243] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[23May2025 01:00:44.370] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[23May2025 01:00:44.383] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[23May2025 01:00:44.590] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:posessed_paladin
+[23May2025 01:00:44.605] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[23May2025 01:00:44.621] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[23May2025 01:00:44.689] [main/INFO] [gimm1q/]: Saved 36 Value Calculator templates to config folder
+[23May2025 01:00:44.693] [main/INFO] [com.github.mim1q.minecells.MineCells/]: Reloading Spawner Rune data...
+[23May2025 01:00:44.750] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[23May2025 01:00:46.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[23May2025 01:00:46.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23May2025 01:00:46.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23May2025 01:00:46.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23May2025 01:00:47.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23May2025 01:00:47.048] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[23May2025 01:00:47.249] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23May2025 01:00:47.249] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23May2025 01:00:47.250] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23May2025 01:00:47.251] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23May2025 01:00:47.482] [Server thread/ERROR] [mixin/]: Injection error: LVT in net/minecraft/world/entity/npc/VillagerTrades$EmeraldsForVillagerTypeItem::m_213663_(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/util/RandomSource;)Lnet/minecraft/world/item/trading/MerchantOffer; has incompatible changes at opcode 34 in callback fabric-object-builder-v1.mixins.json:TradeOffersTypeAwareBuyForOneEmeraldFactoryMixin from mod fabric_object_builder_api_v1->@Inject::failOnNullItem(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/util/RandomSource;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/item/ItemStack;)V.
+ Expected: [Lnet/minecraft/world/item/ItemStack;]
+    Found: [Lnet/minecraft/world/item/Item;]
+Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack;]
+[23May2025 01:00:47.520] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[23May2025 01:00:47.520] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[23May2025 01:00:47.537] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[23May2025 01:00:47.537] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[23May2025 01:00:47.702] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[23May2025 01:00:47.703] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[23May2025 01:00:47.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23May2025 01:00:47.863] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecraft:overworld
+[23May2025 01:00:48.183] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecraft:overworld
+[23May2025 01:00:48.620] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
+[23May2025 01:00:51.011] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for the_bumblezone:the_bumblezone
+[23May2025 01:00:51.013] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for the_bumblezone:the_bumblezone
+[23May2025 01:01:02.262] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecells:insufferable_crypt
+[23May2025 01:01:02.267] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecells:insufferable_crypt
+[23May2025 01:01:02.276] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecraft:the_end
+[23May2025 01:01:02.276] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecraft:the_end
+[23May2025 01:01:02.291] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecraft:the_nether
+[23May2025 01:01:02.292] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecraft:the_nether
+[23May2025 01:01:02.312] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecells:ramparts
+[23May2025 01:01:02.314] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecells:ramparts
+[23May2025 01:01:04.621] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecells:black_bridge
+[23May2025 01:01:04.621] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecells:black_bridge
+[23May2025 01:01:04.627] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecells:prison
+[23May2025 01:01:04.638] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecells:prison
+[23May2025 01:01:04.645] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecells:promenade
+[23May2025 01:01:04.795] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecells:promenade
+[23May2025 01:01:04.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23May2025 01:01:11.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.704] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.705] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.708] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.710] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.713] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.716] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.719] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.720] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.721] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.722] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.729] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.732] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:11.827] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:13.223] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:13.226] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:13.437] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:13.914] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:14.472] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:15.185] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:15.421] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:15.841] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:17.153] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:17.153] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:17.337] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:17.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:18.427] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:18.858] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:19.328] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:20.226] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:20.424] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:20.839] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:21.339] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:22.080] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:22.370] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:23.003] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:23.714] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:23.746] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: limitedchunks.json
+[23May2025 01:01:23.841] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23May2025 01:01:24.327] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[23May2025 01:01:24.831] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[23May2025 01:01:25.638] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[23May2025 01:01:25.832] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
+[23May2025 01:01:26.335] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
+[23May2025 01:01:26.834] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[23May2025 01:01:27.338] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[23May2025 01:01:27.889] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[23May2025 01:01:28.406] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[23May2025 01:01:28.843] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[23May2025 01:01:29.361] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[23May2025 01:01:29.838] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[23May2025 01:01:30.329] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[23May2025 01:01:30.829] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[23May2025 01:01:31.339] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[23May2025 01:01:31.850] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[23May2025 01:01:32.378] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[23May2025 01:01:32.850] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
+[23May2025 01:01:33.347] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
+[23May2025 01:01:33.828] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
+[23May2025 01:01:34.395] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[23May2025 01:01:34.845] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[23May2025 01:01:35.397] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[23May2025 01:01:35.858] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[23May2025 01:01:36.334] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[23May2025 01:01:36.850] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[23May2025 01:01:37.332] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[23May2025 01:01:39.497] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[23May2025 01:01:39.499] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[23May2025 01:01:39.500] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[23May2025 01:01:39.518] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[23May2025 01:01:39.897] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[23May2025 01:01:40.333] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
+[23May2025 01:01:40.884] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
+[23May2025 01:01:41.391] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[23May2025 01:01:41.839] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[23May2025 01:01:42.341] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[23May2025 01:01:42.827] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
+[23May2025 01:01:43.356] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
+[23May2025 01:01:43.838] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
+[23May2025 01:01:44.359] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
+[23May2025 01:01:44.900] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 40074 ms
+[23May2025 01:01:44.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (57.623s)! For help, type "help"
+[23May2025 01:01:44.975] [Server thread/WARN] [net.minecraftforge.server.LanguageHook/]: Skipped language file: owo:lang/en_us.json
+com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to be a string, was an array ([{"i..."}])
+	at net.minecraft.util.GsonHelper.m_13805_(GsonHelper.java:119) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLocaleData$2(LanguageHook.java:64) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLocaleData(LanguageHook.java:63) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLocaleData$1(LanguageHook.java:52) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLocaleData(LanguageHook.java:50) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLanguage$3(LanguageHook.java:80) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at java.util.HashMap$KeySet.forEach(HashMap.java:1008) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLanguage(LanguageHook.java:77) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraftforge.server.LanguageHook.loadLanguagesOnServer(LanguageHook.java:102) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.lambda$handleServerStarting$1(ServerLifecycleHooks.java:104) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraftforge.fml.DistExecutor.unsafeRunWhenOn(DistExecutor.java:111) ~[fmlcore-1.20.1-47.4.0.jar%23220!/:?]
+	at net.minecraftforge.fml.DistExecutor.runWhenOn(DistExecutor.java:95) ~[fmlcore-1.20.1-47.4.0.jar%23220!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStarting(ServerLifecycleHooks.java:103) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:201) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23May2025 01:01:44.991] [Server thread/WARN] [net.minecraftforge.server.LanguageHook/]: Skipped language file: minecells:lang/en_us.json
+com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to be a string, was an array ([{"t..."}])
+	at net.minecraft.util.GsonHelper.m_13805_(GsonHelper.java:119) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLocaleData$2(LanguageHook.java:64) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLocaleData(LanguageHook.java:63) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLocaleData$1(LanguageHook.java:52) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLocaleData(LanguageHook.java:50) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLanguage$3(LanguageHook.java:80) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at java.util.HashMap$KeySet.forEach(HashMap.java:1008) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLanguage(LanguageHook.java:77) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraftforge.server.LanguageHook.loadLanguagesOnServer(LanguageHook.java:102) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.lambda$handleServerStarting$1(ServerLifecycleHooks.java:104) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraftforge.fml.DistExecutor.unsafeRunWhenOn(DistExecutor.java:111) ~[fmlcore-1.20.1-47.4.0.jar%23220!/:?]
+	at net.minecraftforge.fml.DistExecutor.runWhenOn(DistExecutor.java:95) ~[fmlcore-1.20.1-47.4.0.jar%23220!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStarting(ServerLifecycleHooks.java:103) ~[forge-1.20.1-47.4.0-universal.jar%23224!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:201) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23May2025 01:01:45.017] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23May2025 01:01:45.030] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[23May2025 01:01:45.031] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: chunksending.json
+[23May2025 01:06:25.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danyboydark[/127.176.77.38:58079] logged in with entity id 812 at (-1053.9289564785936, 64.5, -1015.0603813907711)
+[23May2025 01:06:25.710] [Server thread/INFO] [owo/]: Sending server config values to client
+[23May2025 01:06:26.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark joined the game
+[23May2025 01:06:26.211] [Netty Epoll Server IO #2/INFO] [owo/]: Receiving client config
+[23May2025 01:06:32.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7104ms or 142 ticks behind
+[23May2025 01:06:59.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Spectator Mode]
+[23May2025 01:07:05.727] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23May2025 01:07:05.783] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23May2025 01:07:10.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Survival Mode]
+[23May2025 01:07:15.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23May2025 01:07:38.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8391ms or 167 ticks behind
+[23May2025 01:07:57.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[23May2025 01:08:19.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23May2025 01:15:56.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Spectator Mode]
+[23May2025 01:16:13.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Survival Mode]
+[23May2025 01:22:26.800] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 8bc7b87f: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23May2025 01:22:26.850] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 8bc7b87f: RandomSpreadSearchWorker succeeded with 150 radius, 1 samples
+[23May2025 01:23:00.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [A Fool's Folly]
+[23May2025 01:31:16.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danyboydark lost connection: Disconnected
+[23May2025 01:31:16.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark left the game
+[23May2025 01:31:37.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danyboydark[/127.176.77.38:59443] logged in with entity id 5903 at (-1959.8611310225888, 62.0, -1543.3723733562085)
+[23May2025 01:31:37.872] [Server thread/INFO] [owo/]: Sending server config values to client
+[23May2025 01:31:37.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark joined the game
+[23May2025 01:31:38.157] [Netty Epoll Server IO #0/INFO] [owo/]: Receiving client config
+[23May2025 01:36:42.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danyboydark lost connection: Disconnected
+[23May2025 01:36:42.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark left the game
+[23May2025 01:48:47.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danyboydark[/127.176.77.38:49203] logged in with entity id 6520 at (-1954.3570924684882, 66.0, -1539.347463608152)
+[23May2025 01:48:47.104] [Server thread/INFO] [owo/]: Sending server config values to client
+[23May2025 01:48:47.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark joined the game
+[23May2025 01:48:47.600] [Netty Epoll Server IO #2/INFO] [owo/]: Receiving client config
+[23May2025 01:49:33.315] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 8bc7b87f: ConcentricRingsSearchWorker starting with 100000 max samples
+[23May2025 01:49:33.376] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 8bc7b87f: ConcentricRingsSearchWorker succeeded with 128 samples
+[23May2025 01:50:51.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [Eye Spy]
+[23May2025 01:58:09.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Spectator Mode]
+[23May2025 01:58:17.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Survival Mode]
+[23May2025 02:01:02.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Creative Mode]
+[23May2025 02:01:03.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Spectator Mode]
+[23May2025 02:01:10.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Survival Mode]
+[23May2025 02:02:01.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Spectator Mode]
+[23May2025 02:02:08.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Survival Mode]
+[23May2025 02:16:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Spectator Mode]
+[23May2025 02:16:37.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Creative Mode]
+[23May2025 02:16:39.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Spectator Mode]
+[23May2025 02:17:24.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Survival Mode]
+[23May2025 02:23:20.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has reached the goal [Exorcism]
+[23May2025 02:26:18.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Spectator Mode]
+[23May2025 02:26:25.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Survival Mode]
+[23May2025 02:26:32.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [Spooky Scary Skeleton]
+[23May2025 02:26:52.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Spectator Mode]
+[23May2025 02:27:24.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Survival Mode]
+[23May2025 02:40:58.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has reached the goal [Pumpkin Sir]
+[23May2025 02:41:01.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has reached the goal [Dark Creator]
+[23May2025 02:43:03.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark was doomed to fall by Baby Skeleton
+[23May2025 02:43:03.768] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for danyboydark with unique ID travelersbackpack.warden_23.05.2025-02.43.03.dat
+[23May2025 02:43:03.842] [Server thread/INFO] [tombstone/]: The player danyboydark has successfully been saved
+[23May2025 02:48:23.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[23May2025 02:50:40.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[23May2025 02:50:40.113] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for danyboydark with unique ID travelersbackpack.warden_23.05.2025-02.50.40.dat
+[23May2025 02:50:40.119] [Server thread/INFO] [tombstone/]: The player danyboydark has successfully been saved
+[23May2025 02:50:53.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Creative Mode]
+[23May2025 02:51:04.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Survival Mode]
+[23May2025 02:51:51.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[23May2025 02:51:51.807] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for danyboydark with unique ID travelersbackpack.warden_23.05.2025-02.51.51.dat
+[23May2025 02:51:51.811] [Server thread/INFO] [tombstone/]: The player danyboydark has successfully been saved
+[23May2025 02:52:37.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Creative Mode]
+[23May2025 02:52:44.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Survival Mode]
+[23May2025 02:54:03.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[23May2025 02:54:03.664] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for danyboydark with unique ID travelersbackpack.warden_23.05.2025-02.54.03.dat
+[23May2025 02:54:03.687] [Server thread/INFO] [tombstone/]: The player danyboydark has successfully been saved
+[23May2025 02:55:25.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[23May2025 02:55:25.299] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for danyboydark with unique ID travelersbackpack.warden_23.05.2025-02.55.25.dat
+[23May2025 02:55:25.308] [Server thread/INFO] [tombstone/]: The player danyboydark has successfully been saved
+[23May2025 02:58:19.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[23May2025 02:58:19.301] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for danyboydark with unique ID travelersbackpack.warden_23.05.2025-02.58.19.dat
+[23May2025 02:58:19.309] [Server thread/INFO] [tombstone/]: The player danyboydark has successfully been saved
+[23May2025 02:58:28.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danyboydark lost connection: Disconnected
+[23May2025 02:58:28.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark left the game
+[23May2025 03:00:23.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23May2025 03:00:23.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23May2025 03:00:23.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23May2025 03:00:23.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23May2025 03:00:23.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23May2025 03:00:24.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[23May2025 03:00:24.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecells:insufferable_crypt
+[23May2025 03:00:24.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23May2025 03:00:24.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23May2025 03:00:24.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecells:ramparts
+[23May2025 03:00:24.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecells:black_bridge
+[23May2025 03:00:24.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecells:prison
+[23May2025 03:00:24.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecells:promenade
+[23May2025 03:00:24.145] [Server thread/INFO] [surveyor/]: [Surveyor] Saving server data...
+[23May2025 03:00:24.462] [Server thread/INFO] [surveyor/]: [Surveyor] Finished saving data for minecraft:overworld | cleaned 5 terrain regions, 0 structure regions, 11 landmarks
+[23May2025 03:00:24.462] [Server thread/INFO] [surveyor/]: [Surveyor] Finished saving server data.
+[23May2025 03:00:24.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23May2025 03:00:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[23May2025 03:00:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (insufferable_crypt): All chunks are saved
+[23May2025 03:00:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23May2025 03:00:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23May2025 03:00:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (ramparts): All chunks are saved
+[23May2025 03:00:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (black_bridge): All chunks are saved
+[23May2025 03:00:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (prison): All chunks are saved
+[23May2025 03:00:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (promenade): All chunks are saved
+[23May2025 03:00:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

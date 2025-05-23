@@ -74,17 +74,24 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-22 22:59:18 +0000",
+      "minecraft:sunflower_plains": "2025-05-23 02:35:55 +0000",
       "minecraft:birch_forest": "2025-05-22 21:32:20 +0000",
+      "minecraft:windswept_hills": "2025-05-23 01:19:21 +0000",
+      "minecraft:savanna_plateau": "2025-05-23 02:37:44 +0000",
       "minecraft:dark_forest": "2025-05-22 21:43:14 +0000",
       "minecraft:river": "2025-05-22 21:24:29 +0000",
       "minecraft:stony_shore": "2025-05-22 21:29:58 +0000",
       "minecraft:dripstone_caves": "2025-05-22 23:01:18 +0000",
       "minecraft:grove": "2025-05-22 21:32:11 +0000",
+      "minecraft:swamp": "2025-05-23 01:20:50 +0000",
       "minecraft:forest": "2025-05-22 21:29:51 +0000",
       "minecraft:lush_caves": "2025-05-22 22:04:49 +0000",
+      "minecraft:windswept_forest": "2025-05-23 01:20:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-22 22:59:12 +0000",
+      "minecraft:flower_forest": "2025-05-23 02:36:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-22 21:32:23 +0000",
       "minecraft:meadow": "2025-05-22 21:38:11 +0000",
+      "minecraft:savanna": "2025-05-23 02:36:41 +0000",
       "minecraft:plains": "2025-05-22 21:22:32 +0000"
     },
     "done": false
@@ -405,8 +412,10 @@
     "criteria": {
       "bread": "2025-05-22 21:29:03 +0000",
       "golden_apple": "2025-05-22 21:53:51 +0000",
+      "salmon": "2025-05-23 02:36:43 +0000",
       "enchanted_golden_apple": "2025-05-22 22:52:38 +0000",
-      "mushroom_stew": "2025-05-22 21:45:08 +0000"
+      "mushroom_stew": "2025-05-22 21:45:08 +0000",
+      "carrot": "2025-05-23 02:42:20 +0000"
     },
     "done": false
   },
@@ -589,11 +598,14 @@
       "minecraft:skeleton": "2025-05-22 22:12:50 +0000",
       "minecraft:vindicator": "2025-05-22 21:56:57 +0000",
       "minecraft:spider": "2025-05-22 21:48:06 +0000",
+      "minecraft:creeper": "2025-05-23 01:51:27 +0000",
       "minecraft:witch": "2025-05-22 21:36:36 +0000",
       "minecraft:cave_spider": "2025-05-22 21:45:25 +0000",
       "minecraft:stray": "2025-05-22 21:48:47 +0000",
+      "minecraft:silverfish": "2025-05-23 01:50:58 +0000",
       "minecraft:vex": "2025-05-22 21:55:38 +0000",
-      "minecraft:zombie": "2025-05-22 21:36:26 +0000"
+      "minecraft:zombie": "2025-05-22 21:36:26 +0000",
+      "minecraft:zombie_villager": "2025-05-23 02:39:00 +0000"
     },
     "done": false
   },
@@ -1785,27 +1797,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
-      "has_emerald_block": "2025-05-22 22:53:29 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/kill_20_grenadiers": {
-    "criteria": {
-      "grenadiers_killed": "2025-05-22 23:37:13 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/undead_archer": {
-    "criteria": {
-      "requirement": "2025-05-22 23:04:10 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/run_in_the_promenade": {
-    "criteria": {
-      "run": "2025-05-22 23:26:21 +0000"
+      "has_cobbled_deepslate_slab": "2025-05-22 22:28:33 +0000"
     },
     "done": true
   },
@@ -1815,51 +1809,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-05-22 23:14:08 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-22 23:55:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-05-22 23:31:39 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/root": {
-    "criteria": {
-      "inscription_table": "2025-05-22 22:45:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-22 22:30:28 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/sewers_tentacle": {
-    "criteria": {
-      "requirement": "2025-05-23 00:45:55 +0000"
-    },
-    "done": true
-  },
-  "minecells:cell_crafter": {
-    "criteria": {
-      "use_cell_crafter": "2025-05-22 23:22:15 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/kill_a_leaping_zombie": {
-    "criteria": {
-      "leaping_zombie_killed": "2025-05-22 23:03:51 +0000"
     },
     "done": true
   },
@@ -1869,25 +1821,13 @@
     },
     "done": true
   },
-  "irons_spellbooks:make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2025-05-22 22:45:03 +0000"
-    },
-    "done": true
-  },
-  "minecells:insufferable_crypt": {
-    "criteria": {
-      "requirement": "2025-05-23 00:36:53 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/kill_15_runners": {
-    "criteria": {
-      "runners_killed": "2025-05-23 00:09:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-22 22:30:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-05-22 22:30:28 +0000"
     },
@@ -1899,171 +1839,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-05-22 22:42:13 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
-    "criteria": {
-      "requirement": "2025-05-22 22:53:17 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_compass": "2025-05-22 23:31:39 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/leaping_zombie": {
-    "criteria": {
-      "requirement": "2025-05-22 23:03:51 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/runner": {
-    "criteria": {
-      "requirement": "2025-05-22 23:30:04 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/have_64_cells": {
-    "criteria": {
-      "requirement": "2025-05-22 23:47:31 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
-    "criteria": {
-      "requirement": "2025-05-22 22:53:16 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/grenadier": {
-    "criteria": {
-      "requirement": "2025-05-22 23:07:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-05-22 22:42:13 +0000"
-    },
-    "done": true
-  },
-  "minecells:conjunctivius": {
-    "criteria": {
-      "conjunctivius_killed": "2025-05-23 00:49:56 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/protector": {
-    "criteria": {
-      "requirement": "2025-05-22 23:27:12 +0000"
-    },
-    "done": true
-  },
-  "minecells:promenade": {
-    "criteria": {
-      "requirement": "2025-05-22 23:25:41 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/overkill": {
-    "criteria": {
-      "overkill": "2025-05-22 23:27:12 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
-    "criteria": {
-      "requirement": "2025-05-22 22:46:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-05-22 22:42:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-05-22 23:38:38 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/kill_30_leaping_zombies": {
-    "criteria": {
-      "leaping_zombies_killed": "2025-05-22 23:30:01 +0000"
-    },
-    "done": true
-  },
-  "minecells:vine_rune": {
-    "criteria": {
-      "vine_rune": "2025-05-23 00:12:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-05-22 22:39:05 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/shieldbearer": {
-    "criteria": {
-      "requirement": "2025-05-22 23:05:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-05-22 23:14:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate_slab": "2025-05-22 22:28:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-05-22 22:42:13 +0000"
-    },
-    "done": true
-  },
-  "minecells:elite": {
-    "criteria": {
-      "obelisk_activated": "2025-05-23 00:12:11 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-22 22:30:28 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-05-22 23:49:49 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/mutated_bat": {
-    "criteria": {
-      "requirement": "2025-05-22 23:31:09 +0000"
-    },
-    "done": true
-  },
-  "minecells:prison": {
-    "criteria": {
-      "requirement": "2025-05-22 23:02:16 +0000"
     },
     "done": true
   },
@@ -2073,9 +1851,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
-      "has_iron_nugget": "2025-05-22 23:05:40 +0000"
+      "has_polished_andesite": "2025-05-22 22:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-22 22:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-22 22:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-22 22:42:13 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-05-22 22:45:03 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-22 22:45:03 +0000"
     },
     "done": true
   },
@@ -2085,15 +1893,454 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-05-22 22:46:33 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-05-22 22:53:16 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
     "criteria": {
       "requirement": "2025-05-22 22:53:16 +0000"
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-05-22 22:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-22 22:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2025-05-22 23:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2025-05-22 23:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2025-05-22 23:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-05-22 23:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-05-22 23:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-22 23:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-05-22 23:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-22 23:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-22 23:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-05-22 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-05-22 23:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-05-22 23:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-05-22 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-05-22 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-05-22 23:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-05-22 23:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-05-22 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-05-22 23:31:39 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2025-05-22 23:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_20_grenadiers": {
+    "criteria": {
+      "grenadiers_killed": "2025-05-22 23:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-22 23:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/have_64_cells": {
+    "criteria": {
+      "requirement": "2025-05-22 23:47:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-22 23:49:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-22 23:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_15_runners": {
+    "criteria": {
+      "runners_killed": "2025-05-23 00:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-05-23 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecells:vine_rune": {
+    "criteria": {
+      "vine_rune": "2025-05-23 00:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecells:insufferable_crypt": {
+    "criteria": {
+      "requirement": "2025-05-23 00:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/sewers_tentacle": {
+    "criteria": {
+      "requirement": "2025-05-23 00:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecells:conjunctivius": {
+    "criteria": {
+      "conjunctivius_killed": "2025-05-23 00:49:56 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_conjunctivius": {
     "criteria": {
       "concierge_killed": "2025-05-23 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-05-23 01:16:55 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-05-23 01:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-23 01:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-23 01:17:51 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-05-23 01:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-23 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-05-23 01:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-05-23 02:41:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_4": "2025-05-23 02:41:14 +0000",
+      "charm_collector_2": "2025-05-23 02:41:14 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-05-23 02:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-23 02:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-23 02:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-23 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-23 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-23 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-23 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-23 02:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-23 02:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-23 02:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-23 02:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-23 02:31:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-05-23 02:40:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-23 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-23 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-23 02:36:38 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-05-23 02:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-23 02:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-23 02:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-05-23 02:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-23 02:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-05-23 02:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-23 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-05-23 02:34:16 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-05-23 02:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-23 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-23 02:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-23 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-23 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-23 01:50:51 +0000"
     },
     "done": true
   },
