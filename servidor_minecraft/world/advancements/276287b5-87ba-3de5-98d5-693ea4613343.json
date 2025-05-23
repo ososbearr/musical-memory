@@ -74,10 +74,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-22 22:59:18 +0000",
+      "minecraft:deep_ocean": "2025-05-23 20:11:58 +0000",
+      "minecraft:eroded_badlands": "2025-05-23 19:50:17 +0000",
       "minecraft:sunflower_plains": "2025-05-23 02:35:55 +0000",
       "minecraft:birch_forest": "2025-05-22 21:32:20 +0000",
       "minecraft:windswept_hills": "2025-05-23 01:19:21 +0000",
+      "minecraft:badlands": "2025-05-23 19:50:13 +0000",
       "minecraft:savanna_plateau": "2025-05-23 02:37:44 +0000",
+      "minecraft:beach": "2025-05-23 19:52:51 +0000",
       "minecraft:dark_forest": "2025-05-22 21:43:14 +0000",
       "minecraft:river": "2025-05-22 21:24:29 +0000",
       "minecraft:lukewarm_ocean": "2025-05-23 06:28:29 +0000",
@@ -89,6 +93,7 @@
       "minecraft:lush_caves": "2025-05-22 22:04:49 +0000",
       "minecraft:desert": "2025-05-23 06:39:19 +0000",
       "minecraft:windswept_forest": "2025-05-23 01:20:06 +0000",
+      "minecraft:ocean": "2025-05-23 20:13:13 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-22 22:59:12 +0000",
       "minecraft:warm_ocean": "2025-05-23 06:36:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-23 06:34:10 +0000",
@@ -416,6 +421,7 @@
     "criteria": {
       "baked_potato": "2025-05-23 07:21:33 +0000",
       "porkchop": "2025-05-23 07:31:20 +0000",
+      "apple": "2025-05-23 20:12:44 +0000",
       "potato": "2025-05-23 06:32:26 +0000",
       "bread": "2025-05-22 21:29:03 +0000",
       "golden_apple": "2025-05-22 21:53:51 +0000",
@@ -610,6 +616,7 @@
       "minecraft:ravager": "2025-05-23 07:03:33 +0000",
       "minecraft:ghast": "2025-05-23 07:40:45 +0000",
       "savage_and_ravage:executioner": "2025-05-23 06:53:29 +0000",
+      "minecraft:guardian": "2025-05-23 20:13:02 +0000",
       "minecraft:vindicator": "2025-05-22 21:56:57 +0000",
       "minecraft:magma_cube": "2025-05-23 07:13:37 +0000",
       "minecraft:spider": "2025-05-22 21:48:06 +0000",
@@ -801,9 +808,10 @@
   },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
+      "has_sherd": "2025-05-23 19:38:33 +0000",
       "trail_ruins_common": "2025-05-22 21:42:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
@@ -2807,6 +2815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-23 18:36:29 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/bricks": {
     "criteria": {
       "has_item": "2025-05-23 18:36:30 +0000"
@@ -2831,12 +2845,6 @@
     },
     "done": true
   },
-  "netherexp:nether/frightening_rush": {
-    "criteria": {
-      "condition": "2025-05-23 18:39:15 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/soul_slate/slab": {
     "criteria": {
       "has_planks": "2025-05-23 18:36:30 +0000"
@@ -2849,15 +2857,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-05-23 18:36:29 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/soul_slate/bricks_from_etched": {
     "criteria": {
       "has_item": "2025-05-23 18:36:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-05-23 18:39:15 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-05-23 18:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-23 18:53:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-23 18:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-23 18:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-23 18:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-23 18:59:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2025-05-23 19:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-05-23 19:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-23 19:20:57 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-05-23 19:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-23 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-23 19:38:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-23 19:39:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-23 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-23 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-23 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-23 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-23 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-23 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-23 19:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-23 19:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-23 19:48:34 +0000"
     },
     "done": true
   },
