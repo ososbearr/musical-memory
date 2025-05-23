@@ -414,6 +414,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-05-23 07:21:33 +0000",
       "potato": "2025-05-23 06:32:26 +0000",
       "bread": "2025-05-22 21:29:03 +0000",
       "golden_apple": "2025-05-22 21:53:51 +0000",
@@ -603,11 +604,14 @@
       "minecraft:blaze": "2025-05-23 06:53:28 +0000",
       "minecraft:pillager": "2025-05-23 07:09:21 +0000",
       "minecraft:skeleton": "2025-05-22 22:12:50 +0000",
+      "savage_and_ravage:creepie": "2025-05-23 07:19:27 +0000",
       "minecraft:ravager": "2025-05-23 07:03:33 +0000",
       "savage_and_ravage:executioner": "2025-05-23 06:53:29 +0000",
       "minecraft:vindicator": "2025-05-22 21:56:57 +0000",
+      "minecraft:magma_cube": "2025-05-23 07:13:37 +0000",
       "minecraft:spider": "2025-05-22 21:48:06 +0000",
       "minecraft:creeper": "2025-05-23 01:51:27 +0000",
+      "savage_and_ravage:trickster": "2025-05-23 07:17:12 +0000",
       "minecraft:slime": "2025-05-23 07:05:30 +0000",
       "minecraft:zombified_piglin": "2025-05-23 07:09:27 +0000",
       "minecraft:witch": "2025-05-22 21:36:36 +0000",
@@ -2363,6 +2367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-23 07:15:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-05-23 06:50:22 +0000"
@@ -2393,6 +2403,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-23 07:13:50 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
       "arachnophobes_nightmare_0": "2025-05-23 06:55:28 +0000"
@@ -2402,6 +2418,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-05-23 06:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-23 07:16:02 +0000"
     },
     "done": true
   },
@@ -2525,6 +2547,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-05-23 07:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-05-23 06:52:14 +0000"
@@ -2549,6 +2577,12 @@
     },
     "done": true
   },
+  "skyarena:difficulty_level_5": {
+    "criteria": {
+      "difficulty_level_5": "2025-05-23 07:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-05-23 06:52:09 +0000"
@@ -2558,6 +2592,18 @@
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-05-23 06:52:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-23 07:12:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-23 07:11:57 +0000"
     },
     "done": true
   },
