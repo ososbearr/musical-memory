@@ -503,3 +503,15 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [23May2025 07:23:55.338] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [23May2025 07:23:55.338] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [23May2025 07:24:14.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [Ice Bucket Challenge]
+[23May2025 07:25:23.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Strider['Strider'/61925, l='ServerLevel[world]', x=145.00, y=31.00, z=187.00]
+[23May2025 07:25:23.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Strider['Strider'/61926, l='ServerLevel[world]', x=144.90, y=31.00, z=186.00]
+[23May2025 07:25:23.024] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ZombifiedPiglin['Zombified Piglin'/61927, l='ServerLevel[world]', x=144.90, y=31.00, z=186.00]
+[23May2025 07:25:23.672] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Strider['Strider'/61934, l='ServerLevel[world]', x=182.00, y=31.00, z=193.00]
+[23May2025 07:25:23.672] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Strider['Strider'/61935, l='ServerLevel[world]', x=182.00, y=31.00, z=193.00]
+[23May2025 07:25:23.673] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Strider['Strider'/61936, l='ServerLevel[world]', x=185.00, y=31.00, z=195.00]
+[23May2025 07:25:24.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [We Need to Go Deeper]
+[23May2025 07:25:29.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9743ms or 194 ticks behind
+[23May2025 07:28:18.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [Double Trouble]
+[23May2025 07:30:03.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [Who is Cutting Onions?]
+[23May2025 07:32:30.190] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 716671b2: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[23May2025 07:32:30.509] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 716671b2: RandomSpreadSearchWorker succeeded with 834 radius, 2 samples

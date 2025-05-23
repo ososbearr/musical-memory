@@ -415,6 +415,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-05-23 07:21:33 +0000",
+      "porkchop": "2025-05-23 07:31:20 +0000",
       "potato": "2025-05-23 06:32:26 +0000",
       "bread": "2025-05-22 21:29:03 +0000",
       "golden_apple": "2025-05-22 21:53:51 +0000",
@@ -612,10 +613,12 @@
       "minecraft:spider": "2025-05-22 21:48:06 +0000",
       "minecraft:creeper": "2025-05-23 01:51:27 +0000",
       "savage_and_ravage:trickster": "2025-05-23 07:17:12 +0000",
+      "minecraft:evoker": "2025-05-23 07:22:09 +0000",
       "minecraft:slime": "2025-05-23 07:05:30 +0000",
       "minecraft:zombified_piglin": "2025-05-23 07:09:27 +0000",
       "minecraft:witch": "2025-05-22 21:36:36 +0000",
       "minecraft:cave_spider": "2025-05-22 21:45:25 +0000",
+      "minecraft:piglin": "2025-05-23 07:28:25 +0000",
       "minecraft:stray": "2025-05-22 21:48:47 +0000",
       "minecraft:silverfish": "2025-05-23 01:50:58 +0000",
       "minecraft:vex": "2025-05-22 21:55:38 +0000",
@@ -2361,11 +2364,25 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-23 07:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-23 06:31:28 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-23 07:25:29 +0000",
+      "minecraft:basalt_deltas": "2025-05-23 07:30:30 +0000",
+      "minecraft:warped_forest": "2025-05-23 07:26:55 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
@@ -2376,6 +2393,18 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-05-23 06:50:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-05-23 07:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-23 07:25:24 +0000"
     },
     "done": true
   },
@@ -2412,6 +2441,12 @@
   "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
       "arachnophobes_nightmare_0": "2025-05-23 06:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-23 07:27:55 +0000"
     },
     "done": true
   },
@@ -2517,15 +2552,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-23 07:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-23 07:05:35 +0000"
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-23 07:25:24 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_revenant": {
     "criteria": {
       "endergolem": "2025-05-23 06:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-23 07:30:03 +0000"
     },
     "done": true
   },
@@ -2544,6 +2597,18 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-05-23 06:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-23 07:24:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-05-23 07:28:18 +0000"
     },
     "done": true
   },
@@ -2583,6 +2648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-23 07:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-05-23 06:52:09 +0000"
@@ -2604,6 +2675,24 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-05-23 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-23 07:24:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-05-23 07:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-05-23 07:29:41 +0000"
     },
     "done": true
   },
