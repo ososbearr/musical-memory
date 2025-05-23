@@ -420,6 +420,7 @@
       "bread": "2025-05-22 21:29:03 +0000",
       "golden_apple": "2025-05-22 21:53:51 +0000",
       "salmon": "2025-05-23 02:36:43 +0000",
+      "golden_carrot": "2025-05-23 07:33:58 +0000",
       "enchanted_golden_apple": "2025-05-22 22:52:38 +0000",
       "mushroom_stew": "2025-05-22 21:45:08 +0000",
       "carrot": "2025-05-23 02:42:20 +0000"
@@ -607,6 +608,7 @@
       "minecraft:skeleton": "2025-05-22 22:12:50 +0000",
       "savage_and_ravage:creepie": "2025-05-23 07:19:27 +0000",
       "minecraft:ravager": "2025-05-23 07:03:33 +0000",
+      "minecraft:ghast": "2025-05-23 07:40:45 +0000",
       "savage_and_ravage:executioner": "2025-05-23 06:53:29 +0000",
       "minecraft:vindicator": "2025-05-22 21:56:57 +0000",
       "minecraft:magma_cube": "2025-05-23 07:13:37 +0000",
@@ -2370,6 +2372,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-23 07:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-23 07:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-23 06:31:28 +0000"
@@ -2379,6 +2393,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-05-23 07:25:29 +0000",
+      "minecraft:soul_sand_valley": "2025-05-23 07:40:14 +0000",
       "minecraft:basalt_deltas": "2025-05-23 07:30:30 +0000",
       "minecraft:warped_forest": "2025-05-23 07:26:55 +0000"
     },
@@ -2387,6 +2402,18 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-05-23 07:15:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2025-05-23 07:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-23 07:41:16 +0000"
     },
     "done": true
   },
@@ -2426,9 +2453,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-23 07:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-23 06:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-23 07:41:16 +0000"
     },
     "done": true
   },
@@ -2441,6 +2480,12 @@
   "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
       "arachnophobes_nightmare_0": "2025-05-23 06:55:28 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-05-23 07:35:48 +0000"
     },
     "done": true
   },
@@ -2462,6 +2507,24 @@
     },
     "done": true
   },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2025-05-23 07:41:02 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-05-23 07:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-23 07:41:16 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/sanctum/phasmo_arrow": {
     "criteria": {
       "item": "2025-05-23 06:53:52 +0000"
@@ -2477,6 +2540,18 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-05-23 07:09:21 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/ssv_sub_biomes": {
+    "criteria": {
+      "netherexp:black_ice_glaciers": "2025-05-23 07:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-23 07:41:02 +0000"
     },
     "done": true
   },
@@ -2528,6 +2603,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-05-23 07:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-05-23 06:52:14 +0000"
@@ -2555,6 +2636,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-05-23 07:27:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-05-23 07:40:17 +0000"
     },
     "done": true
   },
@@ -2618,9 +2705,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-23 07:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-05-23 06:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-23 07:41:02 +0000"
     },
     "done": true
   },
@@ -2633,6 +2732,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-05-23 07:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-23 07:41:02 +0000"
     },
     "done": true
   },
