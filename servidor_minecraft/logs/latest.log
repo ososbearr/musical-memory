@@ -479,3 +479,15 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [23May2025 07:00:54.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark was slain by Fallen Chaos Knight
 [23May2025 07:00:54.739] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for danyboydark with unique ID travelersbackpack.warden_23.05.2025-07.00.54.dat
 [23May2025 07:00:54.779] [Server thread/INFO] [tombstone/]: The player danyboydark has successfully been saved
+[23May2025 07:06:04.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark was exterminated by The Prowler 's laser
+[23May2025 07:06:04.626] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for danyboydark with unique ID travelersbackpack.warden_23.05.2025-07.06.04.dat
+[23May2025 07:06:04.638] [Server thread/INFO] [tombstone/]: The player danyboydark has successfully been saved
+[23May2025 07:06:18.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Creative Mode]
+[23May2025 07:06:23.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Survival Mode]
+[23May2025 07:09:19.005] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23May2025 07:09:19.006] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23May2025 07:09:21.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has reached the goal [Fortuitous Militia]
+[23May2025 07:10:40.262] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/40879, l='ServerLevel[world]', x=1332.45, y=103.00, z=1484.47] died, message: 'Nitwit was slain by Husk'
+[23May2025 07:11:57.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [Magic Writing]
+[23May2025 07:12:08.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has reached the goal [The long arm of the law]
+[23May2025 07:13:50.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has reached the goal [Fighting Nightmares]

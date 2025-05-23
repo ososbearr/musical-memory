@@ -601,11 +601,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-05-23 06:53:28 +0000",
+      "minecraft:pillager": "2025-05-23 07:09:21 +0000",
       "minecraft:skeleton": "2025-05-22 22:12:50 +0000",
+      "minecraft:ravager": "2025-05-23 07:03:33 +0000",
       "savage_and_ravage:executioner": "2025-05-23 06:53:29 +0000",
       "minecraft:vindicator": "2025-05-22 21:56:57 +0000",
       "minecraft:spider": "2025-05-22 21:48:06 +0000",
       "minecraft:creeper": "2025-05-23 01:51:27 +0000",
+      "minecraft:slime": "2025-05-23 07:05:30 +0000",
+      "minecraft:zombified_piglin": "2025-05-23 07:09:27 +0000",
       "minecraft:witch": "2025-05-22 21:36:36 +0000",
       "minecraft:cave_spider": "2025-05-22 21:45:25 +0000",
       "minecraft:stray": "2025-05-22 21:48:47 +0000",
@@ -2413,6 +2417,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 07:09:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2025-05-23 06:52:14 +0000"
@@ -2434,6 +2444,12 @@
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-23 06:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-23 07:05:35 +0000"
     },
     "done": true
   },
@@ -2479,6 +2495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-23 07:05:35 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_revenant": {
     "criteria": {
       "endergolem": "2025-05-23 06:53:48 +0000"
@@ -2512,6 +2534,12 @@
   "skyarena:common_arena": {
     "criteria": {
       "common": "2025-05-23 06:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-23 07:05:35 +0000"
     },
     "done": true
   },
