@@ -7395,3 +7395,305 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [23May2025 06:33:13.519] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 716671b2: RandomSpreadSearchWorker succeeded with 1759 radius, 5 samples
 [23May2025 06:33:34.567] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
 [23May2025 06:33:44.292] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[23May2025 06:34:40.390] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
+[23May2025 06:34:40.394] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[23May2025 06:35:48.510] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[23May2025 06:36:04.349] [Worker-Main-1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-26
+[23May2025 06:36:04.349] [Worker-Main-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-27
+[23May2025 06:36:04.355] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[23May2025 06:36:50.314] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[23May2025 06:36:50.314] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[23May2025 06:36:50.314] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[23May2025 06:36:50.314] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[23May2025 06:36:50.315] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: gimm1q:value_calculator_variable_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[23May2025 06:36:50.316] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[23May2025 06:36:50.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 06:36:50.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 06:38:10.435] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[23May2025 06:38:54.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [Bypassing the Expiration Date]
+[23May2025 06:39:00.205] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[23May2025 06:39:00.206] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[23May2025 06:39:47.074] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1166, y=-39, z=1316}
+[23May2025 06:39:55.232] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1166, y=-39, z=1316}
+[23May2025 06:39:55.233] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1183, y=-39, z=1317}
+[23May2025 06:39:55.328] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1172, y=-39, z=1311}
+[23May2025 06:40:01.846] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1209, y=-32, z=1329}
+[23May2025 06:40:01.853] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-32, z=1328}
+[23May2025 06:40:01.853] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1209, y=-32, z=1329}
+[23May2025 06:40:02.429] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-32, z=1328}
+[23May2025 06:40:02.432] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-39, z=1323}
+[23May2025 06:40:02.434] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1184, y=-39, z=1318}
+[23May2025 06:40:02.435] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1197, y=-39, z=1319}
+[23May2025 06:40:02.450] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-39, z=1323}
+[23May2025 06:40:02.451] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1184, y=-39, z=1318}
+[23May2025 06:40:02.452] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1186, y=-39, z=1309}
+[23May2025 06:40:03.856] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-39, z=1323}
+[23May2025 06:40:04.990] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-32, z=1328}
+[23May2025 06:40:04.991] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-39, z=1323}
+[23May2025 06:40:05.139] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1234, y=-32, z=1324}
+[23May2025 06:40:05.140] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1217, y=-32, z=1323}
+[23May2025 06:40:05.140] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-32, z=1328}
+[23May2025 06:40:05.676] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-32, z=1328}
+[23May2025 06:40:05.676] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1209, y=-32, z=1329}
+[23May2025 06:40:05.683] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1227, y=-25, z=1340}
+[23May2025 06:40:05.683] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1210, y=-25, z=1339}
+[23May2025 06:40:05.688] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1209, y=-32, z=1329}
+[23May2025 06:40:05.690] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1227, y=-25, z=1340}
+[23May2025 06:40:05.690] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1221, y=-25, z=1345}
+[23May2025 06:40:06.048] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1234, y=-32, z=1324}
+[23May2025 06:40:06.048] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-32, z=1328}
+[23May2025 06:40:06.049] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1228, y=-32, z=1329}
+[23May2025 06:40:06.050] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1227, y=-25, z=1340}
+[23May2025 06:40:06.050] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1228, y=-25, z=1346}
+[23May2025 06:40:06.051] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1210, y=-25, z=1339}
+[23May2025 06:40:06.051] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-25, z=1337}
+[23May2025 06:40:06.055] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1227, y=-25, z=1340}
+[23May2025 06:40:06.056] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1228, y=-25, z=1346}
+[23May2025 06:40:06.056] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1221, y=-25, z=1345}
+[23May2025 06:40:06.057] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1241, y=-25, z=1347}
+[23May2025 06:40:10.711] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1257, y=-32, z=1391}
+[23May2025 06:40:10.835] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1257, y=-32, z=1391}
+[23May2025 06:40:10.934] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1228, y=-25, z=1346}
+[23May2025 06:40:10.935] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1243, y=-25, z=1337}
+[23May2025 06:40:10.935] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1241, y=-25, z=1347}
+[23May2025 06:40:11.034] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1247, y=-32, z=1328}
+[23May2025 06:40:11.034] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1234, y=-32, z=1324}
+[23May2025 06:40:11.034] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1228, y=-25, z=1346}
+[23May2025 06:40:11.035] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1231, y=-25, z=1337}
+[23May2025 06:40:11.035] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1243, y=-25, z=1337}
+[23May2025 06:40:11.119] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1247, y=-32, z=1328}
+[23May2025 06:40:11.119] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1234, y=-32, z=1324}
+[23May2025 06:40:17.112] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1248, y=-32, z=1344}
+[23May2025 06:40:17.339] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1248, y=-32, z=1344}
+[23May2025 06:40:17.366] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1248, y=-32, z=1344}
+[23May2025 06:40:17.586] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1248, y=-32, z=1344}
+[23May2025 06:40:17.594] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1248, y=-32, z=1344}
+[23May2025 06:40:17.597] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1258, y=-34, z=1357}
+[23May2025 06:40:17.598] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1264, y=-32, z=1375}
+[23May2025 06:40:17.598] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1259, y=-32, z=1368}
+[23May2025 06:40:18.020] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1264, y=-32, z=1375}
+[23May2025 06:40:18.020] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1259, y=-32, z=1368}
+[23May2025 06:40:18.022] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1257, y=-32, z=1391}
+[23May2025 06:40:18.306] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1258, y=-32, z=1376}
+[23May2025 06:40:18.307] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1257, y=-32, z=1391}
+[23May2025 06:40:18.309] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1259, y=-32, z=1396}
+[23May2025 06:40:18.314] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1259, y=-32, z=1396}
+[23May2025 06:40:18.314] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1269, y=-39, z=1397}
+[23May2025 06:40:18.450] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1269, y=-39, z=1397}
+[23May2025 06:40:19.506] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1248, y=-32, z=1344}
+[23May2025 06:40:19.526] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1248, y=-32, z=1344}
+[23May2025 06:40:19.532] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1289, y=-32, z=1330}
+[23May2025 06:40:19.536] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1248, y=-32, z=1344}
+[23May2025 06:40:20.137] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1248, y=-32, z=1344}
+[23May2025 06:40:20.142] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1289, y=-19, z=1342}
+[23May2025 06:40:20.142] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1289, y=-32, z=1330}
+[23May2025 06:40:20.251] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1248, y=-32, z=1344}
+[23May2025 06:40:20.378] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1258, y=-34, z=1357}
+[23May2025 06:40:20.379] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1264, y=-32, z=1375}
+[23May2025 06:40:20.380] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1265, y=-32, z=1358}
+[23May2025 06:40:20.921] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1264, y=-32, z=1375}
+[23May2025 06:40:20.922] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1265, y=-32, z=1358}
+[23May2025 06:40:22.291] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1289, y=-32, z=1330}
+[23May2025 06:40:22.291] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1307, y=-32, z=1324}
+[23May2025 06:40:22.291] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1289, y=-32, z=1323}
+[23May2025 06:40:22.306] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-19, z=1336}
+[23May2025 06:40:22.309] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1303, y=-19, z=1345}
+[23May2025 06:40:22.326] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1289, y=-19, z=1342}
+[23May2025 06:40:22.331] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1289, y=-32, z=1330}
+[23May2025 06:40:22.331] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-19, z=1336}
+[23May2025 06:40:22.332] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1307, y=-32, z=1324}
+[23May2025 06:40:22.334] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1291, y=-19, z=1335}
+[23May2025 06:40:22.335] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1300, y=-32, z=1329}
+[23May2025 06:40:23.210] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1307, y=-32, z=1324}
+[23May2025 06:40:23.211] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=-32, z=1324}
+[23May2025 06:40:23.211] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1289, y=-32, z=1323}
+[23May2025 06:40:23.235] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-19, z=1336}
+[23May2025 06:40:23.237] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1303, y=-19, z=1345}
+[23May2025 06:40:23.249] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-19, z=1336}
+[23May2025 06:40:23.250] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1307, y=-32, z=1324}
+[23May2025 06:40:23.251] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1305, y=-19, z=1342}
+[23May2025 06:40:23.251] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1291, y=-19, z=1335}
+[23May2025 06:40:23.252] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1300, y=-32, z=1329}
+[23May2025 06:40:23.253] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=-32, z=1324}
+[23May2025 06:40:23.253] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1330, y=-32, z=1329}
+[23May2025 06:40:23.796] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1258, y=-32, z=1376}
+[23May2025 06:40:23.797] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1267, y=-32, z=1379}
+[23May2025 06:40:23.798] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1259, y=-32, z=1396}
+[23May2025 06:40:23.798] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1276, y=-39, z=1409}
+[23May2025 06:40:23.799] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1294, y=-39, z=1386}
+[23May2025 06:40:23.799] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1287, y=-39, z=1391}
+[23May2025 06:40:23.799] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1277, y=-39, z=1385}
+[23May2025 06:40:23.820] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1259, y=-32, z=1396}
+[23May2025 06:40:23.823] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1269, y=-39, z=1397}
+[23May2025 06:40:23.826] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1276, y=-39, z=1409}
+[23May2025 06:40:23.829] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1277, y=-39, z=1393}
+[23May2025 06:40:23.839] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1294, y=-39, z=1386}
+[23May2025 06:40:23.840] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1287, y=-39, z=1391}
+[23May2025 06:40:23.840] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1277, y=-39, z=1385}
+[23May2025 06:40:23.840] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1295, y=-39, z=1383}
+[23May2025 06:40:24.189] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1277, y=-39, z=1393}
+[23May2025 06:40:24.190] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1295, y=-39, z=1383}
+[23May2025 06:40:24.501] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1269, y=-39, z=1397}
+[23May2025 06:40:24.502] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1276, y=-39, z=1409}
+[23May2025 06:40:31.989] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=-32, z=1324}
+[23May2025 06:40:31.989] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1316, y=-32, z=1323}
+[23May2025 06:40:32.091] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1305, y=-19, z=1342}
+[23May2025 06:40:32.092] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=-32, z=1324}
+[23May2025 06:40:32.092] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1323, y=-19, z=1343}
+[23May2025 06:40:32.092] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1313, y=-19, z=1337}
+[23May2025 06:40:32.093] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1340, y=-19, z=1338}
+[23May2025 06:40:32.093] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1330, y=-32, z=1329}
+[23May2025 06:40:32.202] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1323, y=-19, z=1343}
+[23May2025 06:40:34.555] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1341, y=-19, z=1343}
+[23May2025 06:40:34.648] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1340, y=-19, z=1338}
+[23May2025 06:40:34.648] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1330, y=-32, z=1329}
+[23May2025 06:40:34.649] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1341, y=-19, z=1343}
+[23May2025 06:40:34.649] [Worker-Main-27/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1331, y=-19, z=1337}
+[23May2025 06:40:47.303] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[23May2025 06:40:49.393] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[23May2025 06:41:33.531] [Server thread/DEBUG] [mixin/]: Mixing SimpleNamedScreenHandlerFactoryAccessor from fabric-screen-handler-api-v1.mixins.json into net.minecraft.world.SimpleMenuProvider
+[23May2025 06:41:33.533] [Server thread/DEBUG] [mixin/]: fabric-screen-handler-api-v1.mixins.json:SimpleNamedScreenHandlerFactoryAccessor from mod fabric_screen_handler_api_v1: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23May2025 06:41:33.534] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_blacksmith_loot
+[23May2025 06:41:49.470] [Worker-Main-26/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-26 shutdown
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: gimm1q:value_calculator_variable_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[23May2025 06:41:50.242] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[23May2025 06:41:50.243] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[23May2025 06:41:50.243] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[23May2025 06:41:50.243] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[23May2025 06:41:50.243] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[23May2025 06:41:50.243] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[23May2025 06:41:50.243] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[23May2025 06:41:50.243] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[23May2025 06:41:50.243] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[23May2025 06:41:50.243] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[23May2025 06:41:50.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 06:41:50.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 06:43:45.324] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[23May2025 06:44:49.865] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_guard_tower_loot

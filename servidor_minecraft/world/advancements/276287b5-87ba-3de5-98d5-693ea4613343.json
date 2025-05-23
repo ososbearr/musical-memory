@@ -87,8 +87,11 @@
       "minecraft:swamp": "2025-05-23 01:20:50 +0000",
       "minecraft:forest": "2025-05-22 21:29:51 +0000",
       "minecraft:lush_caves": "2025-05-22 22:04:49 +0000",
+      "minecraft:desert": "2025-05-23 06:39:19 +0000",
       "minecraft:windswept_forest": "2025-05-23 01:20:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-22 22:59:12 +0000",
+      "minecraft:warm_ocean": "2025-05-23 06:36:23 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-23 06:34:10 +0000",
       "minecraft:flower_forest": "2025-05-23 02:36:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-22 21:32:23 +0000",
       "minecraft:meadow": "2025-05-22 21:38:11 +0000",
@@ -411,6 +414,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2025-05-23 06:32:26 +0000",
       "bread": "2025-05-22 21:29:03 +0000",
       "golden_apple": "2025-05-22 21:53:51 +0000",
       "salmon": "2025-05-23 02:36:43 +0000",
@@ -2354,6 +2358,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-23 06:31:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-05-23 06:38:54 +0000"
     },
     "done": true
   },

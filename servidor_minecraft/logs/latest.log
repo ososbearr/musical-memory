@@ -467,3 +467,4 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [23May2025 06:33:08.330] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 716671b2: RandomSpreadSearchWorker succeeded with 3763 radius, 21 samples
 [23May2025 06:33:13.463] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 716671b2: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [23May2025 06:33:13.519] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 716671b2: RandomSpreadSearchWorker succeeded with 1759 radius, 5 samples
+[23May2025 06:38:54.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [Bypassing the Expiration Date]
