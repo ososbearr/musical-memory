@@ -459,3 +459,16 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [23May2025 18:42:46.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Set own game mode to Creative Mode]
 [23May2025 18:44:05.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/5026, l='ServerLevel[world]', x=1307.46, y=86.23, z=1448.22] died, message: 'Cartographer was slain by Door Knight'
 [23May2025 18:44:12.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Summoned new Archmage Familiar]
+[23May2025 18:45:23.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Summoned new Bard Familiar]
+[23May2025 18:46:06.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Summoned new Cleric Familiar]
+[23May2025 18:46:24.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Summoned new Druid Familiar]
+[23May2025 18:46:55.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Summoned new Hunter Familiar]
+[23May2025 18:47:50.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Summoned new Illusionist Familiar]
+[23May2025 18:48:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Summoned new Lightning Mage Familiar]
+[23May2025 18:49:07.198] [Worker-Main-97/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23May2025 18:49:07.202] [Worker-Main-97/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23May2025 18:49:34.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Summoned new Necromancer Familiar]
+[23May2025 18:49:50.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Summoned new Plague Doctor Familiar]
+[23May2025 18:50:05.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Summoned new Scorcher Familiar]
+[23May2025 18:50:27.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danyboydark: Summoned new Archmage Familiar]
+[23May2025 18:52:02.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danyboydark has made the advancement [Wingin' It]
