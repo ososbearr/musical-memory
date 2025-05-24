@@ -89,11 +89,13 @@
       "minecraft:dripstone_caves": "2025-05-22 23:01:18 +0000",
       "minecraft:grove": "2025-05-22 21:32:11 +0000",
       "minecraft:swamp": "2025-05-23 01:20:50 +0000",
+      "minecraft:jagged_peaks": "2025-05-24 03:05:43 +0000",
       "minecraft:forest": "2025-05-22 21:29:51 +0000",
       "minecraft:lush_caves": "2025-05-22 22:04:49 +0000",
       "minecraft:desert": "2025-05-23 06:39:19 +0000",
       "minecraft:windswept_forest": "2025-05-23 01:20:06 +0000",
       "minecraft:ocean": "2025-05-23 20:13:13 +0000",
+      "minecraft:jungle": "2025-05-24 02:50:48 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-22 22:59:12 +0000",
       "minecraft:warm_ocean": "2025-05-23 06:36:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-23 06:34:10 +0000",
@@ -419,6 +421,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-24 01:59:16 +0000",
       "baked_potato": "2025-05-23 07:21:33 +0000",
       "porkchop": "2025-05-23 07:31:20 +0000",
       "apple": "2025-05-23 20:12:44 +0000",
@@ -429,6 +432,7 @@
       "golden_carrot": "2025-05-23 07:33:58 +0000",
       "enchanted_golden_apple": "2025-05-22 22:52:38 +0000",
       "mushroom_stew": "2025-05-22 21:45:08 +0000",
+      "cod": "2025-05-24 03:00:08 +0000",
       "carrot": "2025-05-23 02:42:20 +0000"
     },
     "done": false
@@ -626,6 +630,7 @@
       "minecraft:slime": "2025-05-23 07:05:30 +0000",
       "minecraft:zombified_piglin": "2025-05-23 07:09:27 +0000",
       "minecraft:witch": "2025-05-22 21:36:36 +0000",
+      "minecraft:husk": "2025-05-24 02:10:17 +0000",
       "minecraft:cave_spider": "2025-05-22 21:45:25 +0000",
       "minecraft:piglin": "2025-05-23 07:28:25 +0000",
       "minecraft:stray": "2025-05-22 21:48:47 +0000",
@@ -3004,6 +3009,222 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-05-23 19:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-05-24 00:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-24 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-24 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 00:51:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 00:53:45 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ruined_pyramid": {
+    "criteria": {
+      "ruined_pyramid": "2025-05-24 00:54:45 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_dune_sentinel": {
+    "criteria": {
+      "ambusher": "2025-05-24 00:57:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-05-24 01:34:35 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-05-24 01:38:02 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-05-24 02:03:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2025-05-24 02:04:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 02:15:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-05-24 02:15:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-05-24 02:15:48 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-05-24 02:17:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 02:49:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-05-24 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-24 02:59:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-05-24 02:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-24 02:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-24 02:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-24 02:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-24 02:59:33 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-05-24 03:01:03 +0000"
     },
     "done": true
   },
